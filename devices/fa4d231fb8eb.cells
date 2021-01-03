@@ -1,6 +1,6 @@
 ```meta
 {
-    "url" : "aqara-relay"
+    "url" : "aqara-relay",
     "brand" : "Aqara",
     "channels" : 2,
     "external_switch" : true,
