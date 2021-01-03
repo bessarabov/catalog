@@ -1,0 +1,28 @@
+```meta
+{
+    "url" : "aqara-relay"
+    "brand" : "Aqara",
+    "channels" : 2,
+    "external_switch" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/aLNegLSebMLy_Xvm06UGNh606pA.png",
+    "max_load" : "10A",
+    "name" : "Aqara relay",
+    "need_neutral" : true,
+    "power_monitor" : true,
+    "protocol" : "zigbee",
+    "type" : "relay",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/LLKZMK11LM.html"
+    ]
+}
+```
+---
+```markdown
+
+Изначально в устройстве сухого контакта нет! ([подробности](https://ivan.bessarabov.ru/blog/aqara-relay)).
+
+Для того чтобы появился сухой контакт требуется доработка. Инструкции:
+
+ * [4pda](https://4pda.ru/forum/index.php?showtopic=680062&st=28880#entry90351326)
+ * [YouTube](https://www.youtube.com/watch?v=wVC22dEq77A)
+```
