@@ -1,0 +1,15 @@
+```meta
+{
+    "brand" : "Aqara",
+    "image" : "https://upload.bessarabov.ru/bessarabov/2d14eV01a8iTA33bnzQs92SNvqY.png",
+    "name" : "Aqara Window Door Sensor",
+    "protocol" : "zigbee",
+    "type" : "door_window_sensor",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/MCCGQ11LM.html"
+    ]
+}
+```
+---
+```markdown
+```

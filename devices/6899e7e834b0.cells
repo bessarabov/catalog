@@ -1,0 +1,15 @@
+```meta
+{
+    "brand" : "Life Control",
+    "image" : "https://upload.bessarabov.ru/bessarabov/SEJ2quS2lT314u8MebUdadjyjv0.png",
+    "name" : "Life Control MCLH-04",
+    "protocol" : "zigbee",
+    "type" : "door_window_sensor",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/MCLH-04.html"
+    ]
+}
+```
+---
+```markdown
+```

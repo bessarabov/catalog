@@ -1,0 +1,15 @@
+```meta
+{
+    "brand" : "Life Control",
+    "image" : "https://upload.bessarabov.ru/bessarabov/zoVqs8DpanlYN4uryJgtOB8S7Fc.png",
+    "name" : "Life Control MCLH-02",
+    "protocol" : "zigbee",
+    "type" : "lightbulb",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/MCLH-02.html"
+    ]
+}
+```
+---
+```markdown
+```
