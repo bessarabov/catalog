@@ -1,0 +1,16 @@
+```meta
+{
+    "battery" : "CR2032",
+    "brand" : "Sonoff",
+    "image" : "https://upload.bessarabov.ru/bessarabov/wCPmDY9iOHP3d3Kq2M7-WGYI71Q.png",
+    "name" : "Sonoff SNZB-04",
+    "protocol" : "zigbee",
+    "type" : "door_window_sensor",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/SNZB-04.html"
+    ]
+}
+```
+---
+```markdown
+```

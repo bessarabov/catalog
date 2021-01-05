@@ -1,0 +1,15 @@
+```meta
+{
+    "brand" : "Ikea",
+    "image" : "https://upload.bessarabov.ru/bessarabov/NID32VfAu0eRGQbHoerC0Lo75OU.png",
+    "name" : "Ikea open/close",
+    "protocol" : "zigbee",
+    "type" : "remote",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/E1766.html"
+    ]
+}
+```
+---
+```markdown
+```

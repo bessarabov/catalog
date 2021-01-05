@@ -1,0 +1,20 @@
+```meta
+{
+    "battery" : "2 x AA",
+    "brand" : "Life Control",
+    "features" : [
+        "temperature",
+        "humidity",
+        "voc",
+        "eco2"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/D8Qo5wq4ItDWNPVvwMhWnLA1rrQ.png",
+    "name" : "Life Control MCLH-08",
+    "protocol" : "zigbee",
+    "type" : "climate_sensor",
+    "zigbee2mqtt" : "https://www.zigbee2mqtt.io/devices/MCLH-08.html"
+}
+```
+---
+```markdown
+```

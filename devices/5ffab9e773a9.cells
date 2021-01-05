@@ -1,0 +1,15 @@
+```meta
+{
+    "brand" : "Aqara",
+    "image" : "https://upload.bessarabov.ru/bessarabov/GNq0LxXeod4AxZmF1LfUCVsBh3Q.png",
+    "name" : "Opple 2",
+    "protocol" : "zigbee",
+    "type" : "wireless_switch",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/WXCJKG12LM.html"
+    ]
+}
+```
+---
+```markdown
+```

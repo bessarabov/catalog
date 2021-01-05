@@ -1,0 +1,15 @@
+```meta
+{
+    "brand" : "Aqara",
+    "image" : "https://upload.bessarabov.ru/bessarabov/7d-LfE7ddhMuu_-ZJpvolAVhZgc.png",
+    "name" : "Opple 3",
+    "protocol" : "zigbee",
+    "type" : "wireless_switch",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/WXCJKG13LM.html"
+    ]
+}
+```
+---
+```markdown
+```

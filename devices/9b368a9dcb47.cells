@@ -1,0 +1,15 @@
+```meta
+{
+    "channels" : 2,
+    "dry_contacts" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/IwKg0TCFydE0dgTtW-hWXQIDJ7k.png",
+    "max_load" : "10A",
+    "name" : "eWeLink 2",
+    "need_neutral" : true,
+    "protocol" : "wifi",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

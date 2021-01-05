@@ -1,0 +1,17 @@
+```meta
+{
+    "features" : [
+        "pir"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/N1c61tAjwcQ9nZIxaRtEKlUXM7s.png",
+    "name" : "Xiaomi mijia human body sensor",
+    "protocol" : "zigbee",
+    "type" : "motion_detector",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/RTCGQ01LM.html"
+    ]
+}
+```
+---
+```markdown
+```

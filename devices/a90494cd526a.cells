@@ -1,0 +1,15 @@
+```meta
+{
+    "features" : [
+        "temperature",
+        "humidity",
+        "pir"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/UmXLbwkwGqBrda9UZAJkUSHOIkU.png",
+    "name" : "PIR with TH",
+    "type" : "motion_detector"
+}
+```
+---
+```markdown
+```

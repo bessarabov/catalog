@@ -1,0 +1,15 @@
+```meta
+{
+    "channels" : 2,
+    "external_switch" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/3CiLktHHGRTkaMCNwV56sNfflXw.png",
+    "max_load" : "10A",
+    "name" : "Yeelight dual relay",
+    "need_neutral" : true,
+    "protocol" : "wifi",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

@@ -1,0 +1,18 @@
+```meta
+{
+    "channels" : 2,
+    "external_switch" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/n6hQwmyWwnuGoiaYLRvUoH8S6ME.png",
+    "max_load" : "10A",
+    "name" : "Tuya 2 LN",
+    "need_neutral" : true,
+    "protocol" : "zigbee",
+    "type" : "relay",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/QS-Zigbee-S04-2C-LN.html"
+    ]
+}
+```
+---
+```markdown
+```

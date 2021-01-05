@@ -1,0 +1,16 @@
+```meta
+{
+    "brand" : "Aqara",
+    "image" : "https://upload.bessarabov.ru/bessarabov/CWcmg6SfS3wKGta1dTCB6r0qUFc.png",
+    "name" : "Aqara button",
+    "protocol" : "zigbee",
+    "type" : "button",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/WXKG11LM.html",
+        "https://www.zigbee2mqtt.io/devices/WXKG12LM.html"
+    ]
+}
+```
+---
+```markdown
+```

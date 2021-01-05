@@ -1,0 +1,15 @@
+```meta
+{
+    "channels" : 2,
+    "external_switch" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/ql0NJV3hitX3VwFuXO3ip6OIXZE.png",
+    "max_load" : "10A",
+    "name" : "BlitzWolf BW-SS7 2 gang",
+    "need_neutral" : true,
+    "protocol" : "zigbee",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

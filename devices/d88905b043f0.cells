@@ -1,0 +1,16 @@
+```meta
+{
+    "brand" : "Girier",
+    "channels" : 1,
+    "external_switch" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/0JrS2SbOaHaKI60GDGXoZRpw8dI.png",
+    "max_load" : "16A",
+    "name" : "Girier JR-DS10",
+    "need_neutral" : true,
+    "protocol" : "wifi",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

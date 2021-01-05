@@ -1,0 +1,15 @@
+```meta
+{
+    "channels" : 2,
+    "external_switch" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/AxG0kEy6SZXcUnmtSCvqS5rcA_E.png",
+    "max_load" : "0.4A",
+    "name" : "Tuya 2 L",
+    "need_neutral" : false,
+    "protocol" : "zigbee",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

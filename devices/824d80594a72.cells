@@ -1,0 +1,14 @@
+```meta
+{
+    "image" : "https://upload.bessarabov.ru/bessarabov/U4Xx_5-BuhE09HKPU-N5fcbZLYw.png",
+    "name" : "LeTV",
+    "protocol" : "zigbee",
+    "type" : "remote",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/LeTV.8KEY.html"
+    ]
+}
+```
+---
+```markdown
+```

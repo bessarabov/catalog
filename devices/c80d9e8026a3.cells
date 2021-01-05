@@ -1,0 +1,15 @@
+```meta
+{
+    "channels" : 1,
+    "external_switch" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/zvrxE_RrB7hPoHFj2VutRDm8mn4.png",
+    "max_load" : "10A",
+    "name" : "Moes WiFi Switch Module",
+    "need_neutral" : true,
+    "protocol" : "wifi",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

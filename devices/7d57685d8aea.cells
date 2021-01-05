@@ -1,0 +1,13 @@
+```meta
+{
+    "image" : "https://upload.bessarabov.ru/bessarabov/Qqs8PKUz1qpBHIVO_TjVZabArtE.png",
+    "max_load" : "16A",
+    "name" : "LED socket",
+    "power_monitor" : true,
+    "protocol" : "wifi",
+    "type" : "external_socket"
+}
+```
+---
+```markdown
+```

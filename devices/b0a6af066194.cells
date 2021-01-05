@@ -1,0 +1,16 @@
+```meta
+{
+    "battery" : "CR2032",
+    "brand" : "BlitzWolf",
+    "features" : [
+        "temperature",
+        "humidity"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/fh7L2oFo9OfEqhNcKXNlEgB4VHc.png",
+    "name" : "BlitzWolf BW-IS8",
+    "protocol" : "zigbee"
+}
+```
+---
+```markdown
+```

@@ -1,0 +1,14 @@
+```meta
+{
+    "brand" : "TP-Link",
+    "image" : "https://upload.bessarabov.ru/bessarabov/umXOz5sem4p_9ZAI7op34DQf_WA.png",
+    "max_load" : "16A",
+    "name" : "TP-Link HS110",
+    "power_monitor" : true,
+    "protocol" : "wifi",
+    "type" : "external_socket"
+}
+```
+---
+```markdown
+```

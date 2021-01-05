@@ -1,0 +1,17 @@
+```meta
+{
+    "features" : [
+        "temperature",
+        "humidity",
+        "pm2.5",
+        "pm10",
+        "co2"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/JNsl1b70mUnl0PqwCULtlk2UZUE.png",
+    "name" : "Qing Ping Air Monitor Lite",
+    "protocol" : "wifi, bluetooth"
+}
+```
+---
+```markdown
+```

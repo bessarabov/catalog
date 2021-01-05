@@ -1,0 +1,14 @@
+```meta
+{
+    "features" : [
+        "pir"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/kVw-eBcERWdFmOW2SlEh_6xTrHQ.png",
+    "name" : "WiFi Smart PIR Motion Sensor",
+    "protocol" : "wifi",
+    "type" : "motion_detector"
+}
+```
+---
+```markdown
+```

@@ -1,0 +1,15 @@
+```meta
+{
+    "brand" : "Ikea",
+    "image" : "https://upload.bessarabov.ru/bessarabov/xNflaWTYBFlC-luBypzU5mNDOgY.png",
+    "name" : "Ikea on/off",
+    "protocol" : "zigbee",
+    "type" : "remote",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/E1743.html"
+    ]
+}
+```
+---
+```markdown
+```

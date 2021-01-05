@@ -1,0 +1,14 @@
+```meta
+{
+    "features" : [
+        "temperature",
+        "humidity",
+        "display"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/-KwX0egKijE6qwfoOOhGZFcbXzk.png",
+    "name" : "Tuya"
+}
+```
+---
+```markdown
+```

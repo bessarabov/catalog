@@ -1,0 +1,15 @@
+```meta
+{
+    "brand" : "Aqara",
+    "image" : "https://upload.bessarabov.ru/bessarabov/qx186SIFLxYLwYPNBtLfaoOsn4M.png",
+    "name" : "Aqara D1 wireless wall switch 2 keys",
+    "protocol" : "zigbee",
+    "type" : "wireless_switch",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/WXKG07LM.html"
+    ]
+}
+```
+---
+```markdown
+```

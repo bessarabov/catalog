@@ -1,0 +1,13 @@
+```meta
+{
+    "channels" : 1,
+    "image" : "https://upload.bessarabov.ru/bessarabov/1ORpna48rGapr4RV3LKVxjuGHik.png",
+    "name" : "Sonoff SV",
+    "need_neutral" : true,
+    "protocol" : "wifi",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

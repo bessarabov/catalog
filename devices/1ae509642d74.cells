@@ -1,0 +1,19 @@
+```meta
+{
+    "battery" : "2 x AAA",
+    "features" : [
+        "temperature",
+        "humidity",
+        "display"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/Jz9rSIX6SeUZVYQ6Whp9eL8q78Q.png",
+    "name" : "Tuya TS0201",
+    "protocol" : "zigbee",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/TS0201.html"
+    ]
+}
+```
+---
+```markdown
+```

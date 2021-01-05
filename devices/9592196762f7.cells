@@ -1,0 +1,15 @@
+```meta
+{
+    "channels" : 1,
+    "external_switch" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/7QE3USJRa1uhX6OEqDNFF6qOcHw.png",
+    "max_load" : "10A",
+    "name" : "Aqara Single switch module T1",
+    "need_neutral" : true,
+    "protocol" : "zigbee",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

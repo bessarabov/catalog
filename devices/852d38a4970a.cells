@@ -1,0 +1,19 @@
+```meta
+{
+    "brand" : "Aqara",
+    "features" : [
+        "illumination",
+        "pir"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/9OtSH7hSamJ3XLHcNKJWw2gzOFI.png",
+    "name" : "Aqara human body movement and illuminance sensor",
+    "protocol" : "zigbee",
+    "type" : "motion_detector",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/RTCGQ11LM.html"
+    ]
+}
+```
+---
+```markdown
+```

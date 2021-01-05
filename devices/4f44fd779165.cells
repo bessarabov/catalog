@@ -1,0 +1,16 @@
+```meta
+{
+    "battery" : "2 x AAA",
+    "image" : "https://upload.bessarabov.ru/bessarabov/ihJ2rWDAUFXlEp_ruq6EIXkLmCk.png",
+    "name" : "Heiman leak sensor",
+    "protocol" : "zigbee",
+    "type" : "leak_sensor",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/HS1WL_HS3WL.html",
+        "https://www.zigbee2mqtt.io/devices/HS1-WL-E.html"
+    ]
+}
+```
+---
+```markdown
+```

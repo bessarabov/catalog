@@ -1,0 +1,14 @@
+```meta
+{
+    "image" : "https://upload.bessarabov.ru/bessarabov/D95sZvevgZ5rAIwlsefGphN7270.png",
+    "name" : "Smart remote",
+    "protocol" : "zigbee",
+    "type" : "remote",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/HS1RC-N.html"
+    ]
+}
+```
+---
+```markdown
+```

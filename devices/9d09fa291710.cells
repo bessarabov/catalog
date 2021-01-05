@@ -1,0 +1,17 @@
+```meta
+{
+    "battery" : "—",
+    "esphome" : [
+        "https://esphome.io/components/sensor/dallas.html"
+    ],
+    "features" : [
+        "temperature"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/RUvEVXFSSm3sHB3pDofKLvzXIFc.png",
+    "name" : "DS18b20",
+    "protocol" : "—"
+}
+```
+---
+```markdown
+```

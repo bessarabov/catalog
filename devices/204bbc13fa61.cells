@@ -1,0 +1,12 @@
+```meta
+{
+    "brand" : "Sonoff",
+    "image" : "https://upload.bessarabov.ru/bessarabov/IL0h2GBqEkddyieU6e-eAL1fkg4.png",
+    "name" : "Sonoff ZBBridge",
+    "protocol" : "zigbee",
+    "type" : "zigbee_gateway"
+}
+```
+---
+```markdown
+```

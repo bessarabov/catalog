@@ -1,0 +1,16 @@
+```meta
+{
+    "image" : "https://upload.bessarabov.ru/bessarabov/8njqan9Mz51-Y7jUMxP3oF4GpK8.png",
+    "max_load" : "10A",
+    "name" : "Mi Smart Plug (Zigbee)",
+    "power_monitor" : true,
+    "protocol" : "zigbee",
+    "type" : "external_socket",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/ZNCZ04LM.html"
+    ]
+}
+```
+---
+```markdown
+```

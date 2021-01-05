@@ -1,0 +1,19 @@
+```meta
+{
+    "features" : [
+        "temperature",
+        "humidity",
+        "co2",
+        "pm2.5",
+        "voc",
+        "display",
+        "clock"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/reGTb7TrZuuUllr5LHpOPIVvvtA.png",
+    "name" : "Xiaomi ClearGrass Air detector",
+    "protocol" : "wifi"
+}
+```
+---
+```markdown
+```

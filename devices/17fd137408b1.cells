@@ -1,0 +1,14 @@
+```meta
+{
+    "brand" : "BlitzWolf",
+    "image" : "https://upload.bessarabov.ru/bessarabov/NC03T9Y60PSLIwHG5WUTHSlg0Io.png",
+    "max_load" : "16A",
+    "name" : "BlitzWolf BW-SHP10",
+    "power_monitor" : true,
+    "protocol" : "wifi",
+    "type" : "external_socket"
+}
+```
+---
+```markdown
+```

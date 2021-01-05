@@ -1,0 +1,17 @@
+```meta
+{
+    "brand" : "Life Control",
+    "image" : "https://upload.bessarabov.ru/bessarabov/UcnKNNVZRi3t_9ad5TyTVFZ3kJs.png",
+    "max_load" : "10A",
+    "name" : "Life Control MCLH-03",
+    "power_monitor" : true,
+    "protocol" : "zigbee",
+    "type" : "external_socket",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/MCLH-03.html"
+    ]
+}
+```
+---
+```markdown
+```

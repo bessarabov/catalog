@@ -1,0 +1,18 @@
+```meta
+{
+    "features" : [
+        "temperature",
+        "thumidity"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/VB-hNMTz2u1zdOtUZYR5Ve7EMSg.png",
+    "name" : "ORVIBO",
+    "protocol" : "zigbee",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/ST20.html",
+        "https://www.zigbee2mqtt.io/devices/ST21.html"
+    ]
+}
+```
+---
+```markdown
+```

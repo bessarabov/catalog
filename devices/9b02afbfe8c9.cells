@@ -1,0 +1,13 @@
+```meta
+{
+    "battery" : "CR123A",
+    "brand" : "Shelly",
+    "image" : "https://upload.bessarabov.ru/bessarabov/3SsgDpgX3llGNEEphA1ysQmj83Y.png",
+    "name" : "Shelly Flood",
+    "protocol" : "wifi",
+    "type" : "leak_sensor"
+}
+```
+---
+```markdown
+```

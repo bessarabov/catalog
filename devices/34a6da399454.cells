@@ -1,0 +1,15 @@
+```meta
+{
+    "channels" : 1,
+    "dry_contacts" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/UbxsIUYxN8sxRGv8vO78TQ1-jgA.png",
+    "max_load" : "10A",
+    "name" : "Diymore",
+    "need_neutral" : true,
+    "protocol" : "wifi",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

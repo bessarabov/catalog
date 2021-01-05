@@ -1,0 +1,18 @@
+```meta
+{
+    "battery" : "—",
+    "esphome" : [
+        "https://esphome.io/components/sensor/dht.html"
+    ],
+    "features" : [
+        "temperature",
+        "humidity"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/ykdRilXg11y8WYl1uiOJ7-JqOSs.png",
+    "name" : "DHT22",
+    "protocol" : "—"
+}
+```
+---
+```markdown
+```

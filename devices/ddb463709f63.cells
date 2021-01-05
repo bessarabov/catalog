@@ -1,0 +1,17 @@
+```meta
+{
+    "brand" : "Shelly",
+    "channels" : 1,
+    "dry_contacts" : true,
+    "external_switch" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/3fB5Wa1alI-zzbPOMvFst0QSUWo.png",
+    "max_load" : "16A",
+    "name" : "Shelly 1",
+    "need_neutral" : true,
+    "protocol" : "wifi",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

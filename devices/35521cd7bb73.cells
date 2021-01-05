@@ -1,0 +1,15 @@
+```meta
+{
+    "channels" : 4,
+    "dry_contacts" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/Kp30h4l5sXaZSz7crKmUboE6Gr0.png",
+    "max_load" : "10A",
+    "name" : "Sonoff 4CH Pro",
+    "need_neutral" : true,
+    "protocol" : "wifi",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

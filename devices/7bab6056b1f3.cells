@@ -1,0 +1,18 @@
+```meta
+{
+    "brand" : "Sonoff",
+    "channels" : 1,
+    "features" : [
+        "temperature"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/4uVdQrYMKevIDW6VjBN_qORB4Ws.png",
+    "max_load" : "15A",
+    "name" : "Sonoff TH16",
+    "need_neutral" : true,
+    "protocol" : "wifi",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

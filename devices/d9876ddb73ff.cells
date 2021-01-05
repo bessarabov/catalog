@@ -1,0 +1,15 @@
+```meta
+{
+    "channels" : 3,
+    "external_switch" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/n_u-giZ2-NtyQF98YmUiMPDEZ8s.png",
+    "max_load" : "10A",
+    "name" : "Moes 3ch",
+    "need_neutral" : true,
+    "protocol" : "zigbee",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

@@ -1,0 +1,16 @@
+```meta
+{
+    "battery" : "CR2032",
+    "features" : [
+        "temperature",
+        "humidity",
+        "display"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/wvS5ykVHhD24bHq80oBLDWWfEcM.png",
+    "name" : "Mijia Thermometer 2",
+    "protocol" : "bluetooth"
+}
+```
+---
+```markdown
+```

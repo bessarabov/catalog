@@ -1,0 +1,18 @@
+```meta
+{
+    "image" : "https://upload.bessarabov.ru/bessarabov/dgvcPcCXnV27LQS0QMw06bZRl3w.png",
+    "max_load" : "16A",
+    "name" : "Heiman",
+    "power_monitor" : true,
+    "protocol" : "zigbee",
+    "type" : "external_socket",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/HS2SK.html",
+        "https://www.zigbee2mqtt.io/devices/HS2SK_nxp.html",
+        "https://www.zigbee2mqtt.io/devices/SKHMP30-I1.html"
+    ]
+}
+```
+---
+```markdown
+```

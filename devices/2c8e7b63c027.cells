@@ -1,0 +1,17 @@
+```meta
+{
+    "battery" : "CR2450",
+    "brand" : "Elari",
+    "features" : [
+        "temperature",
+        "humidity"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/f-iLI0VzIiEIoXeCBXFNV_wgDKc.png",
+    "name" : "Elari Smart T&H Sensor",
+    "protocol" : "zigbee",
+    "type" : "climate_sensor"
+}
+```
+---
+```markdown
+```

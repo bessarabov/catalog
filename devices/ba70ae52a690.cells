@@ -1,0 +1,17 @@
+```meta
+{
+    "channels" : 1,
+    "image" : "https://upload.bessarabov.ru/bessarabov/Io9ie_g7KvY2xrTveSIecX8qek0.png",
+    "max_load" : "10A",
+    "name" : "Zigbee OnOff Controller",
+    "need_neutral" : true,
+    "protocol" : "zigbee",
+    "type" : "relay",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/KS-SM001.html"
+    ]
+}
+```
+---
+```markdown
+```

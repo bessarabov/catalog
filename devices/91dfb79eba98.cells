@@ -1,0 +1,16 @@
+```meta
+{
+    "brand" : "Sonoff",
+    "channels" : 1,
+    "image" : "https://upload.bessarabov.ru/bessarabov/LN-jtc1Iq4fmP8ky_YghPbzTIwQ.png",
+    "max_load" : "15A",
+    "name" : "Sonoff Pow R2",
+    "need_neutral" : true,
+    "power_monitor" : true,
+    "protocol" : "wifi",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

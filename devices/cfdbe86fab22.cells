@@ -1,0 +1,14 @@
+```meta
+{
+    "channels" : 1,
+    "external_switch" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/iajb52ktQ6kSAXGdK8RXld5afDo.png",
+    "name" : "eWelink releay",
+    "need_neutral" : false,
+    "protocol" : "wifi, rf433",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

@@ -1,0 +1,15 @@
+```meta
+{
+    "features" : [
+        "temperature",
+        "humidity",
+        "alarm"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/-1N-DW5EjBqFBDpZUjTTT9FMUcY.png",
+    "name" : "Neo",
+    "protocol" : "zigbee"
+}
+```
+---
+```markdown
+```

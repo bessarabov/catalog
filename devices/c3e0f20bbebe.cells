@@ -1,0 +1,16 @@
+```meta
+{
+    "battery" : "AAA",
+    "features" : [
+        "temperature",
+        "humidity",
+        "display"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/FGVUd05JzlIgR2N4DGuJTJ9hx6Q.png",
+    "name" : "Mi Home Bluetooth Hygrothermograph",
+    "protocol" : "bluetooth"
+}
+```
+---
+```markdown
+```

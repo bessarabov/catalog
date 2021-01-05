@@ -1,0 +1,19 @@
+```meta
+{
+    "brand" : "Sonoff",
+    "channels" : 1,
+    "external_switch" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/o4QhUj_lK-HRoqracyV-6kSJvQI.png",
+    "max_load" : "10A",
+    "name" : "Sonoff ZBMini",
+    "need_neutral" : true,
+    "protocol" : "zigbee",
+    "type" : "relay",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/ZBMINI.html"
+    ]
+}
+```
+---
+```markdown
+```

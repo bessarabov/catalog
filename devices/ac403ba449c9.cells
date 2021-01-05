@@ -1,0 +1,14 @@
+```meta
+{
+    "image" : "https://upload.bessarabov.ru/bessarabov/zLo_a3DRiDSSY56GxnQ7Ma02Mfc.png",
+    "name" : "3 button remote",
+    "protocol" : "zigbee",
+    "type" : "remote",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/TS0043.html"
+    ]
+}
+```
+---
+```markdown
+```

@@ -1,0 +1,18 @@
+```meta
+{
+    "brand" : "Sonoff",
+    "channels" : 1,
+    "image" : "https://upload.bessarabov.ru/bessarabov/z4p97prvSni71YYsnH0QDKeK7bs.png",
+    "max_load" : "10A",
+    "name" : "Sonoff Basic ZBR3",
+    "need_neutral" : true,
+    "protocol" : "zigbee",
+    "type" : "relay",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/BASICZBR3.html"
+    ]
+}
+```
+---
+```markdown
+```

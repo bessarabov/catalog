@@ -1,0 +1,19 @@
+```meta
+{
+    "battery" : "CR2450",
+    "brand" : "Sonoff",
+    "features" : [
+        "pir"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/ciEGzE6j5jaaRfeK35RJFDSdE_k.png",
+    "name" : "Sonoff SNZB-03",
+    "protocol" : "zigbee",
+    "type" : "motion_detector",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/SNZB-03.html"
+    ]
+}
+```
+---
+```markdown
+```

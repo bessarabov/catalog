@@ -1,0 +1,16 @@
+```meta
+{
+    "brand" : "Sonoff",
+    "channels" : 1,
+    "external_switch" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/4FSeM6zkvjZf7tQx65c1mjOXvZU.png",
+    "max_load" : "10A",
+    "name" : "Sonoff Mini",
+    "need_neutral" : true,
+    "protocol" : "wifi",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

@@ -1,0 +1,16 @@
+```meta
+{
+    "battery" : "CR2450",
+    "brand" : "Sonoff",
+    "image" : "https://upload.bessarabov.ru/bessarabov/nOGD53r6-y6ggkCFKzS0Pblh1wA.png",
+    "name" : "Sonoff SNZB-01",
+    "protocol" : "zigbee",
+    "type" : "button",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/SNZB-01.html"
+    ]
+}
+```
+---
+```markdown
+```

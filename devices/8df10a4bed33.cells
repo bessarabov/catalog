@@ -1,0 +1,15 @@
+```meta
+{
+    "channels" : 1,
+    "external_switch" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/SZ5nuLNyjFAn4ftgmrLckrvQZ9Y.png",
+    "max_load" : "0.4A",
+    "name" : "Tuya 1 L",
+    "need_neutral" : false,
+    "protocol" : "zigbee",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

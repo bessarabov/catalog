@@ -1,0 +1,15 @@
+```meta
+{
+    "brand" : "Sonoff",
+    "channels" : 1,
+    "image" : "https://upload.bessarabov.ru/bessarabov/FonDeke_GcdZLdw_hTp7n52Sq_U.png",
+    "max_load" : "10A",
+    "name" : "Sonoff Basic",
+    "need_neutral" : true,
+    "protocol" : "wifi",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

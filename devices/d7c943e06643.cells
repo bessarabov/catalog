@@ -1,0 +1,14 @@
+```meta
+{
+    "channels" : 1,
+    "image" : "https://upload.bessarabov.ru/bessarabov/1HQTxM5oAShCY6QMEwzM-0AN140.png",
+    "max_load" : "4A",
+    "name" : "GLEDOPTO on/off controller",
+    "need_neutral" : true,
+    "protocol" : "zigbee",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

@@ -1,0 +1,14 @@
+```meta
+{
+    "features" : [
+        "pir"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/gVa6PxhW3vOt6BOR8NNEThNNIQo.png",
+    "name" : "Zigbee Smart PIR Motion Sensor",
+    "protocol" : "zigbee",
+    "type" : "motion_detector"
+}
+```
+---
+```markdown
+```

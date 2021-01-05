@@ -1,0 +1,15 @@
+```meta
+{
+    "battery" : "3 x AAA",
+    "features" : [
+        "pir"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/gVa6PxhW3vOt6BOR8NNEThNNIQo.png",
+    "name" : "WiFi Smart PIR Motion Sensor",
+    "protocol" : "wifi",
+    "type" : "motion_detector"
+}
+```
+---
+```markdown
+```

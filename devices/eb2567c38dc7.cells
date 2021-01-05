@@ -1,0 +1,17 @@
+```meta
+{
+    "battery" : "CR2032",
+    "features" : [
+        "temperature",
+        "illumination",
+        "soil_moisture",
+        "nutrient"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/wbV6Fv63hzSSQ2gZFa5lSdNg5Co.png",
+    "name" : "MiFlora",
+    "protocol" : "bluetooth"
+}
+```
+---
+```markdown
+```

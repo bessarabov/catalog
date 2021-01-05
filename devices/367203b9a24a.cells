@@ -1,0 +1,15 @@
+```meta
+{
+    "channels" : 2,
+    "external_switch" : true,
+    "image" : "https://upload.bessarabov.ru/bessarabov/hmXnYPEFrdEVArXUYo_tmQMNs0c.png",
+    "max_load" : "10A",
+    "name" : "Moes 2ch",
+    "need_neutral" : true,
+    "protocol" : "zigbee",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

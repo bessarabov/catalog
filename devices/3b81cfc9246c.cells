@@ -1,0 +1,14 @@
+```meta
+{
+    "channels" : 2,
+    "image" : "https://upload.bessarabov.ru/bessarabov/ukgBc0dHK9rgWfzzp9mby17wtKs.png",
+    "max_load" : "10A",
+    "name" : "Sonoff dual",
+    "need_neutral" : true,
+    "protocol" : "wifi",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

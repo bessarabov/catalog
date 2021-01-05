@@ -1,0 +1,14 @@
+```meta
+{
+    "channels" : 1,
+    "image" : "https://upload.bessarabov.ru/bessarabov/JRfTQrdHzaafrani6Z-uefWtal4.png",
+    "max_load" : "10A",
+    "name" : "KTNNKG On off Controller",
+    "need_neutral" : true,
+    "protocol" : "zigbee",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```

@@ -1,0 +1,18 @@
+```meta
+{
+    "battery" : "—",
+    "esphome" : [
+        "https://esphome.io/components/sensor/aht10.html"
+    ],
+    "features" : [
+        "temperature",
+        "humidity"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/AHnv1Gmq1wj8-Y4IH_2fL7sCuV8.png",
+    "name" : "AHT10",
+    "protocol" : "—"
+}
+```
+---
+```markdown
+```

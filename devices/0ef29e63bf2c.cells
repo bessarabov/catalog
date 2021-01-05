@@ -1,0 +1,16 @@
+```meta
+{
+    "battery" : "CR123A",
+    "brand" : "Life Control",
+    "image" : "https://upload.bessarabov.ru/bessarabov/RsDKdMJXARAu6109-0E0z7Wu2_Y.png",
+    "name" : "Life Control MCLH-07",
+    "protocol" : "zigbee",
+    "type" : "leak_sensor",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/MCLH-07.html"
+    ]
+}
+```
+---
+```markdown
+```

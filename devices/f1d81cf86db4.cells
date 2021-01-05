@@ -1,0 +1,18 @@
+```meta
+{
+    "brand" : "Life Control",
+    "features" : [
+        "pir"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/EVMMqljnoicN0-VbptlMfXNceLs.png",
+    "name" : "Life Control MCLH-05",
+    "protocol" : "zigbee",
+    "type" : "motion_detector",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/MCLH-05.html"
+    ]
+}
+```
+---
+```markdown
+```

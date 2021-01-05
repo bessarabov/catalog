@@ -1,0 +1,21 @@
+```meta
+{
+    "battery" : "CR2032",
+    "docs" : [
+        {
+            "name" : "modkam",
+            "url" : "https://modkam.ru/?p=1114"
+        }
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/7LAsGg_bT9S0YIbvitnK8NpcpPQ.png",
+    "name" : "modkam remote",
+    "protocol" : "zigbee",
+    "type" : "remote",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/DIYRuZ_KEYPAD20.html"
+    ]
+}
+```
+---
+```markdown
+```

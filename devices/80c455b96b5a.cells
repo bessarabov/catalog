@@ -1,0 +1,17 @@
+```meta
+{
+    "brand" : "BlitzWolf",
+    "image" : "https://upload.bessarabov.ru/bessarabov/HVEzEiIU1AQpE-v2Lv3lG5pfsGI.png",
+    "max_load" : "16A",
+    "name" : "BlitzWolf BW-SHP13",
+    "power_monitor" : true,
+    "protocol" : "zigbee",
+    "type" : "external_socket",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/TS0121_plug.html"
+    ]
+}
+```
+---
+```markdown
+```

@@ -1,0 +1,17 @@
+```meta
+{
+    "battery" : "2 x CR2032",
+    "features" : [
+        "temperature",
+        "humidity",
+        "display",
+        "clock"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/O-RPltgyeSYpqaWKOv77CEwPT3M.png",
+    "name" : "Mijia Digital Hygrometer Clock",
+    "protocol" : "bluetooth"
+}
+```
+---
+```markdown
+```

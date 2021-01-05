@@ -1,0 +1,18 @@
+```meta
+{
+    "brand" : "Sonoff",
+    "channels" : 1,
+    "features" : [
+        "temperature"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/jelxLzXAyE9VZ4-PSq5Hwgv4A4M.png",
+    "max_load" : "10A",
+    "name" : "Sonoff TH10",
+    "need_neutral" : true,
+    "protocol" : "wifi",
+    "type" : "relay"
+}
+```
+---
+```markdown
+```
