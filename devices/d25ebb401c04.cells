@@ -1,5 +1,6 @@
 ```meta
 {
+    "url" : "sonoff-basic",
     "brand" : "Sonoff",
     "channels" : 1,
     "image" : "https://upload.bessarabov.ru/bessarabov/FonDeke_GcdZLdw_hTp7n52Sq_U.png",
@@ -12,4 +13,28 @@
 ```
 ---
 ```markdown
+Wi-Fi реле. Очень популярное устройство. Одно из самых дешевых реле.
+
+Есть несколько версий этого устройства:
+
+ * r1
+ * r2
+ * r3 — самая новая модель
+
+![](https://upload.bessarabov.ru/bessarabov/SJYTU1z__vFIXmdHTDZfjAa0JLs.jpg)
+
+## Home Assistant
+
+Для подключения к Home Assistant можно использовать кастомный компонент [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN),
+использование этого компонента не требует модификации устройства, компонент работает с родной прошивкой.
+
+Либо можно перешить реле на альтернативную прошивку ESPHome или Tasmota.
+
+## Сухой контакт
+
+Изначально в устройстве сухого контакта нет. Вот инструкции как модифицировать реле для получения сухого контакта:
+
+ * [Описание bessarabov про Sonoff Basic r2](https://ivan.bessarabov.ru/blog/sonoff-basic-dry-contacts)
+ * [Описание kolyaseg Sonoff Basic r1](https://kolyaseg.livejournal.com/943854.html)
+ * [YouTube видео про Sonoff Basic r2](https://www.youtube.com/watch?v=A8ltE9z5rX8)
 ```
