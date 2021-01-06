@@ -1,0 +1,43 @@
+```meta
+{
+    "url" : "shelly-i3",
+    "brand" : "Shelly",
+    "image" : "https://upload.bessarabov.ru/bessarabov/ZIL6T1-RzRSAGFoZZya-6irrsmA.png",
+    "name" : "Shelly i3",
+    "protocol" : "wifi"
+}
+```
+---
+```markdown
+
+Устройство устанавливается в подрозеткник и к нему подключаются клавиши выключателя.
+При замыкании контактов устройство отправляет логический сигнал о том что клавиша нажата. Сигнал отправлятеся
+с помощью mqtt или rest. Устройств может определять разые типы нажатий (одинарное, двойное, ...)
+и отправлять разные сигналы в случае разных нажатий.
+
+Размеры (мм): 36,7 x 40,6 x 10,7
+
+ * [Официальная страница устройства](https://shelly.cloud/products/shelly-i3-smart-home-automation-device/)
+ * [pdf с инстркцией](https://upload.bessarabov.ru/bessarabov/sAt4epgdUU5NH8qUC2DAnAwZklA.pdf)
+
+## Схема подключения
+
+Устройство можно запитать как от сети перменного тока, так и от постоянного.
+
+![](https://upload.bessarabov.ru/bessarabov/puryDEoI1x3-p3ny6aeAcGa-j0I.png)
+
+## Управление
+
+Устройство может отправлять данные по протоколам http или mqtt, а еще может взаимодействовать с облаком Shelly.
+
+Есть возможность перепрошить устройство на альтернативную прошивку. На устройстве сразу выведены
+все контакты которые необходимы для прошивки.
+
+![](https://upload.bessarabov.ru/bessarabov/DYI3p8ajlT0AsC2RyJ6SAd3STQU.png)
+
+## Доработки
+
+![](https://upload.bessarabov.ru/bessarabov/BkYITBBqHw9s_wOI3jUpk_dbrLs.jpg)
+
+[Файлы для 3d принтера для установки на din рейку](https://www.thingiverse.com/thing:4580096)
+```
