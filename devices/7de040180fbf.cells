@@ -1,0 +1,15 @@
+```meta
+{
+    "brand" : "BlitzWolf",
+    "image" : "https://upload.bessarabov.ru/bessarabov/OiSc-eQxTQf2ylYP12_Dz8TwFBk.png",
+    "name" : "BlitzWolf BW-IS2",
+    "protocol" : "zigbee",
+    "type" : "door_window_sensor",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/SNTZ007.html"
+    ]
+}
+```
+---
+```markdown
+```

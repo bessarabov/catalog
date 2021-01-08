@@ -1,0 +1,17 @@
+```meta
+{
+    "brand" : "BlitzWolf",
+    "features" : [
+        "temperature",
+        "humidity",
+        "display"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/VsIKFCPw8BMKIoaN1Oldg8sEmGI.png",
+    "name" : "BlitzWolf BW-IS4",
+    "protocol" : "zigbee",
+    "type" : "climate_sensor"
+}
+```
+---
+```markdown
+```
