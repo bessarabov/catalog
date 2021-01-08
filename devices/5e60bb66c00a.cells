@@ -1,13 +1,15 @@
 ```meta
 {
+    "brand" : "Konke",
     "battery" : "CR2450",
     "features" : [
         "temperature",
         "humidity"
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/_lNquQYdzphjSYbY_jKhAg4HlHM.png",
-    "name" : "Konke",
+    "name" : "Konke Smart Temperature Humidity Sensor",
     "protocol" : "zigbee",
+    "type" : "climate_sensor",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/2AJZ4KPFT.html"
     ]

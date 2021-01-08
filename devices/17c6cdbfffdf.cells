@@ -1,0 +1,15 @@
+```meta
+{
+    "brand" : "Konke",
+    "image" : "https://upload.bessarabov.ru/bessarabov/MPU4qBG3z1BvqTWz8vSYUlOuCso.png",
+    "name" : "Konke Smart Door / window Sensor",
+    "protocol" : "zigbee",
+    "type" : "door_window_sensor",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/2AJZ4KPDR.html"
+    ]
+}
+```
+---
+```markdown
+```
