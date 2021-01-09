@@ -1,0 +1,19 @@
+```meta
+{
+    "features" : [
+        "temperature",
+        "humidity",
+        "pir",
+        "illumination",
+        "voc",
+        "co2",
+        "noise"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/ryIQF7dga0FUZzFtMw4QR3eo7HI.png",
+    "name" : "Настенный комбинированный датчик WB-MSW v.3",
+    "type" : "climate_sensor"
+}
+```
+---
+```markdown
+```

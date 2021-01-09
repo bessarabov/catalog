@@ -1,0 +1,25 @@
+```meta
+{
+    "url" : "haozee-multi-sensor",
+    "battery" : "2 x CR123A",
+    "features" : [
+        "temperature",
+        "humidity",
+        "pir",
+        "illumination"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/1ohs-OJXusBooNIHI9MhixGuGSE.png",
+    "protocol" : "zigbee",
+    "name" : "Haozee Multi Sensor"
+}
+```
+---
+```markdown
+Устройство может работать от двух батареек CR123A, либо от USB.
+
+На задней части находится магнит, устройство подключается к креплению с помощью
+этого магнита. Так же можно установить устройство в потолок,
+для этого дополнительно нужно докупить специальное крепление.
+
+![1.png](https://upload.bessarabov.ru/bessarabov/dg108-8fZzpbDFWmcJVt8vS4npo.png)
+```

@@ -1,0 +1,18 @@
+```meta
+{
+    "url" : "dadget-co2",
+    "features" : [
+        "temperature",
+        "co2"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/_h-RZJbHEa_1IQj2zEj0Livh70g.png",
+    "name" : "Детектор углекислого газа Даджет",
+    "type" : "climate_sensor"
+}
+```
+---
+```markdown
+[Официальный сайт](https://dadget.ru/catalog/datchiki_kachestva_vozdukha/detektor_uglekislogo_gaza/)
+
+Название модели: KIT MT8057S
+```
