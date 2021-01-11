@@ -1,5 +1,6 @@
 ```meta
 {
+    "url" : "sonoff-mini",
     "brand" : "Sonoff",
     "channels" : 1,
     "external_switch" : true,
@@ -13,4 +14,16 @@
 ```
 ---
 ```markdown
+## Разница между версиями
+
+Сейчать есть 2 версии Wi-Fi устройства Sonoff Mini:
+
+ * оригинальная
+ * r2
+
+В версии r2 нет внешней антены и в версии r2 клеммы для подключения выключателя серого цвета.
+
+![](https://upload.bessarabov.ru/bessarabov/ipeTfFpnLIDPBF3bbGl0kd3J8F8.png)
+
+![](https://upload.bessarabov.ru/bessarabov/xgUmmQJhPAK8Soc-eeyVIWSFlSA.png)
 ```
