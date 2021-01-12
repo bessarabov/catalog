@@ -3,6 +3,14 @@
     "ecosystem" : "Яндекс",
     "image" : "https://upload.bessarabov.ru/bessarabov/rnYMHgXVANFhJK-66rpIiyIim34.png",
     "name" : "JBL Link Portable",
+    "colors" : [
+"#565e39",
+"#42444b",
+"#043143",
+"#572c23",
+"#83704d",
+"#222126"
+    ],
     "type" : "smart_speaker"
 }
 ```

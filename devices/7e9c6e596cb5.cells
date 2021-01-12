@@ -3,6 +3,10 @@
     "ecosystem" : "mail.ru",
     "image" : "https://upload.bessarabov.ru/bessarabov/Hc1gHmnrDVa6s-1p3nducyLyeMQ.png",
     "name" : "Капсула",
+    "colors" : [
+        "#323133",
+        "#b1adaf"
+    ],
     "type" : "smart_speaker"
 }
 ```

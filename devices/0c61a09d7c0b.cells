@@ -4,6 +4,10 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/u3DXa74h4hPlGLC-hVdpBnWwG9I.png",
     "name" : "Benexmart wireless sensor swtich 3 gang",
     "protocol" : "zigbee",
+    "colors" : [
+        "white",
+        "black"
+    ],
     "type" : "wireless_switch"
 }
 ```

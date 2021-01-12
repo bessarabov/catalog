@@ -3,6 +3,10 @@
     "ecosystem" : "Яндекс",
     "image" : "https://upload.bessarabov.ru/bessarabov/ss-4Ain7SzcOUgmn-iZcFOVCxDA.png",
     "name" : "Irbis A",
+    "colors" : [
+        "black",
+        "white"
+    ],
     "type" : "smart_speaker"
 }
 ```
