@@ -1,0 +1,30 @@
+```meta
+{
+    "url" : "aqara-motion-sensor-t1",
+    "battery" : "CR2450",
+    "features" : [
+        "illumination",
+        "pir"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/9OtSH7hSamJ3XLHcNKJWw2gzOFI.png",
+    "name" : "Aqara Motion Sensor T1",
+    "protocol" : "zigbee",
+    "type" : "motion_detector"
+}
+```
+---
+```markdown
+Новый датчик движения Aqara.
+
+Визуально отличается от обычного датчика Aqara тем что на верхней крышке есть логотип zigbee.
+
+Главное отличное от обычного датчика — возможность гибко настраивать как часто этот датчик ловит события.
+
+Где купить — неизвестно. Один продавец на AliExpress недолгое время отправлял эти датчики, но они очень быстро закончились.
+Говорит что, возможно, будет новая партия в феврале.
+
+ * [Обзор датчика на reddit](https://www.reddit.com/r/Aqara/comments/kuskin/quick_test_aqara_motion_sensor_t1_rtcgq12lm/)
+ * [Официальный сайт](https://www.aqara.com/cn/productDetail/d17)
+
+Поддержки в zigbee2mqtt еще нет, есть [тикет 5706 в котором ведется работа по добавлению](https://github.com/Koenkk/zigbee2mqtt/issues/5706).
+```
