@@ -1,0 +1,13 @@
+```meta
+{
+    "battery" : "CR2450",
+    "brand" : "Aqara",
+    "image" : "https://upload.bessarabov.ru/bessarabov/qb2VYE-NJl2vMn80VYj4Th9_y40.png",
+    "name" : "Aqara Human Body Sensor",
+    "protocol" : "zigbee",
+    "type" : "motion_detector"
+}
+```
+---
+```markdown
+```
