@@ -1,0 +1,15 @@
+```meta
+{
+    "battery" : "2 x CR2450",
+    "features" : [
+        "pir"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/NJ29MciP5iAaMpCL6DJhr73lAPY.png",
+    "name" : "Qingping Motion and Ambient Light Sensor",
+    "protocol" : "bluetooth",
+    "type" : "motion_detector"
+}
+```
+---
+```markdown
+```
