@@ -1,0 +1,15 @@
+```meta
+{
+    "brand" : "Shelly",
+    "features" : [
+        "pir"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/vteG-j2MRUca2cnZ4mKlD_13VGg.png",
+    "name" : "Shelly Motion",
+    "protocol" : "wifi",
+    "type" : "motion_detector"
+}
+```
+---
+```markdown
+```
