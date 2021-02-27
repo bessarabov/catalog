@@ -1,0 +1,15 @@
+```meta
+{
+    "brand" : "Сбер",
+    "ecosystem" : "Сбер",
+    "image" : "https://upload.bessarabov.ru/bessarabov/Vt_6M8EIdgVtZ03-r_YU-KfJ2pQ.png",
+    "max_load" : "16A",
+    "name" : "Умная розетка Sber",
+    "power_monitor" : "yes",
+    "protocol" : "wifi",
+    "type" : "external_socket"
+}
+```
+---
+```markdown
+```
