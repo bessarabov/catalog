@@ -1,0 +1,13 @@
+```meta
+{
+    "battery" : "2 x CR123A",
+    "brand" : "Shelly",
+    "image" : "https://upload.bessarabov.ru/bessarabov/qxNzKOQ7XgvDjwOGva4JY3zH5Zg.png",
+    "name" : "Shelly Door/Window 2",
+    "protocol" : "wifi",
+    "type" : "door_window_sensor"
+}
+```
+---
+```markdown
+```
