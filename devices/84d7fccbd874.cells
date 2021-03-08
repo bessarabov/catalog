@@ -2,12 +2,12 @@
 {
     "brand" : "Aqara",
     "channels" : 1,
-    "external_switch" : "yes",
+    "external_switch" : true,
     "image" : "https://upload.bessarabov.ru/bessarabov/Se6LVBxAc6iSc_NXBCzsZYo2XaM.png",
     "max_load" : "5A",
     "name" : "Aqara Single Switch Module T1 (Without Neutral)",
-    "need_neutral" : "no",
-    "power_monitor" : "no",
+    "need_neutral" : false,
+    "power_monitor" : false,
     "protocol" : "zigbee",
     "type" : "relay",
     "zigbee2mqtt" : [
