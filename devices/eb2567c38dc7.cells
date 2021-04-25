@@ -9,7 +9,8 @@
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/wbV6Fv63hzSSQ2gZFa5lSdNg5Co.png",
     "name" : "MiFlora",
-    "protocol" : "bluetooth"
+    "protocol" : "bluetooth",
+    "type" : "flower-sensor"
 }
 ```
 ---
