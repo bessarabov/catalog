@@ -1,5 +1,6 @@
 ```meta
 {
+    "battery" : "AA",
     "brand" : "Life Control",
     "features" : [
         "pir"
