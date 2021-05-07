@@ -1,6 +1,7 @@
 ```meta
 {
     "brand" : "Сбер",
+    "bulb_type" : "E14",
     "ecosystem" : "Сбер",
     "image" : "https://upload.bessarabov.ru/bessarabov/qyyf8HgFg5MchtmPKz1YW1CkJtA.png",
     "name" : "Sber E14",
