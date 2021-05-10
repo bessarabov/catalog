@@ -26,5 +26,5 @@
  * [Обзор датчика на reddit](https://www.reddit.com/r/Aqara/comments/kuskin/quick_test_aqara_motion_sensor_t1_rtcgq12lm/)
  * [Официальный сайт](https://www.aqara.com/cn/productDetail/d17)
 
-Поддержки в zigbee2mqtt еще нет, есть [тикет 5706 в котором ведется работа по добавлению](https://github.com/Koenkk/zigbee2mqtt/issues/5706).
+Поддержка в zigbee2mqtt была сделана в [тикете 5706](https://github.com/Koenkk/zigbee2mqtt/issues/5706).
 ```
