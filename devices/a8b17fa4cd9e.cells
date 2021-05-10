@@ -1,9 +1,7 @@
 ```meta
 {
-    "aliexpress_prices" : [],
     "brand" : "Ikea",
     "bulb_type" : "E14",
-    "full_price" : 0,
     "image" : "https://upload.bessarabov.ru/bessarabov/Wi63DtRVAZfne2HW6JUT9ifTi-8.png",
     "name" : "Ikea Trådfri LED 400lm E14",
     "protocol" : "zigbee",
