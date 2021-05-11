@@ -1,5 +1,6 @@
 ```meta
 {
+    "battery" : "CR1632",
     "image" : "https://upload.bessarabov.ru/bessarabov/aoCO_cKEYB23vjzIv1-hgD4hC6s.png",
     "name" : "Mijia Window Door Sensor",
     "protocol" : "zigbee",

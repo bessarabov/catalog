@@ -1,5 +1,6 @@
 ```meta
 {
+    "battery" : "CR1632",
     "brand" : "Aqara",
     "image" : "https://upload.bessarabov.ru/bessarabov/2d14eV01a8iTA33bnzQs92SNvqY.png",
     "name" : "Aqara Window Door Sensor",
