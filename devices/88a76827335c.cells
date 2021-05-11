@@ -4,6 +4,7 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/WZJK4oJG2sMZcGxC2L5Im4_tapU.png",
     "max_load" : "16A",
     "name" : "Shelly Plug",
+    "power_monitor" : true,
     "protocol" : "wifi",
     "type" : "external_socket"
 }
