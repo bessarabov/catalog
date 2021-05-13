@@ -1,0 +1,15 @@
+```meta
+{
+    "image" : "https://upload.bessarabov.ru/bessarabov/Dmw3XlspZDFRj4aITeAPYMFZsgM.png",
+    "name" : "Mijia Smart Light Sensor",
+    "protocol" : "zigbee",
+    "type" : "illuminance_sensor",
+    "url" : "mi-light-sensor",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/GZCGQ01LM.html"
+    ]
+}
+```
+---
+```markdown
+```
