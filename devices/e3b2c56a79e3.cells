@@ -6,7 +6,8 @@
     "name" : "BlitzWolf BW-SHP8",
     "power_monitor" : true,
     "protocol" : "wifi",
-    "type" : "socket"
+    "type" : "socket",
+    "url" : "blitzwolf-bw-shp8"
 }
 ```
 ---
