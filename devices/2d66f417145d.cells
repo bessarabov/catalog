@@ -1,0 +1,13 @@
+```meta
+{
+    "esphome" : [
+        "https://esphome.io/components/sensor/ultrasonic.html"
+    ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/ZqTZBEr03EtYBju7ztZ5F0bZ2u8.png",
+    "name" : "Distance Sensor HC-SR04",
+    "url" : "distance-sensor-hc-sr04"
+}
+```
+---
+```markdown
+```
