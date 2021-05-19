@@ -21,10 +21,12 @@
 
 На датчике HC-SR04 есть 4 пина:
 
- * Питание (Vcc) — подключается в 5V на wemos
- * Земля (Gnd) — подключается в gnd
- * Trigger (Trig) — подключается в D1
- * Echo — подключается в D2
+ * Питание (Vcc), красный провод — подключается в 5V на wemos
+ * Trigger (Trig), зеленый провод — подключается в D1
+ * Echo, синий провод — подключается в D2
+ * Земля (Gnd), черный провод — подключается в gnd
+
+![](https://upload.bessarabov.ru/bessarabov/w5kddLPq7XXZJI7goYbM8xkf5Fk.jpg)
 
 ## Код ESPHome
 
@@ -64,7 +66,7 @@
 
 ![](https://upload.bessarabov.ru/bessarabov/h101bxwZ2u-3vRrXn3FyTHe-nrc.png)
 
-Если направить сенсор вдаль или положить на стол, то датчик покажет значение Unknown.
+Если направить сенсор вдаль или положить на стол, то датчик покажет значение unknown.
 
 ![](https://upload.bessarabov.ru/bessarabov/82wLOnmPN3S0jPQHSf9FFjkXY1Q.png)
 
