@@ -10,4 +10,60 @@
 ```
 ---
 ```markdown
+Ультразвуковой датчик растояния. Датчик возвращает число — расстояние от датчика до поверхности.
+Датчик может фиксировать расстояние от нескольких сантиметров, до двух метров.
+
+Питается от 5 вольт. При подключении к 3v3 либо вообще не будет работать, либо будет работать плохо.
+
+Удобно подключать его к [Wemos D1 Mini](https://s.click.aliexpress.com/e/_AEW1vx) на котором есть пин 5V.
+
+## Схема подключения к Wemos D1 Mini
+
+На датчике HC-SR04 есть 4 пина:
+
+ * Питание (Vcc) — подключается в 5V на wemos
+ * Земля (Gnd) — подключается в gnd
+ * Trigger (Trig) — подключается в D1
+ * Echo — подключается в D2
+
+## Код ESPHome
+
+[Документация](https://esphome.io/components/sensor/ultrasonic.html)
+
+Файл distance.yaml:
+
+    esphome:
+      name: distance
+      platform: ESP8266
+      board: d1_mini
+
+    wifi:
+      ssid: !secret wifi_ssid
+      password: !secret wifi_password
+
+    logger:
+
+    api:
+      password: !secret api_password
+
+    ota:
+      password: !secret ota_password
+
+    sensor:
+      - platform: ultrasonic
+        trigger_pin: D1
+        echo_pin: D2
+        name: "Ultrasonic Sensor"
+        update_interval: 10s
+
+## Использование в Home Assistant
+
+При подключении ESPHome устройства к Home Assistant появляется новый сенсор, например sensor.ultrasonic_sensor
+
+Значение этого сенсора — это расстояние которое фиксирует сенсор, размерность — метр.
+
+Если направить сенсор вдаль или положить на стол, то датчик покажет значение Unknown.
+
+Минимальное значение которое удалось зафиксировть с помощью датчика — 0.02 метра (2 сантиметра).
+Максимальное — 1.8 метра.
 ```
