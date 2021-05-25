@@ -10,7 +10,8 @@
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/ykdRilXg11y8WYl1uiOJ7-JqOSs.png",
     "name" : "DHT22",
-    "protocol" : "—"
+    "protocol" : "—",
+    "url" : "dht22"
 }
 ```
 ---

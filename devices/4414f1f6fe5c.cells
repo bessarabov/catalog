@@ -7,7 +7,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/gVa6PxhW3vOt6BOR8NNEThNNIQo.png",
     "name" : "WiFi Smart PIR Motion Sensor",
     "protocol" : "wifi",
-    "type" : "motion_detector"
+    "type" : "motion_detector",
+    "url" : "wifi-smart-pir-motion-sensor"
 }
 ```
 ---

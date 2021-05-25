@@ -7,7 +7,8 @@
     "ecosystem" : "Яндекс",
     "image" : "https://upload.bessarabov.ru/bessarabov/8clwTPOi7oHguLfsOQ52XJafWRo.png",
     "name" : "Prestigio Smartmate Mayak Edition",
-    "type" : "smart_speaker"
+    "type" : "smart_speaker",
+    "url" : "prestigio-smartmate-mayak-edition"
 }
 ```
 ---

@@ -11,7 +11,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/4vnoEQNDzvC-_3XU1BH84UO6NJc.png",
     "name" : "Netatmo Weather Station",
     "protocol" : "wifi",
-    "type" : "climate_sensor"
+    "type" : "climate_sensor",
+    "url" : "netatmo-weather-station"
 }
 ```
 ---

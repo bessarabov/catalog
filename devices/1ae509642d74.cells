@@ -9,6 +9,7 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/Jz9rSIX6SeUZVYQ6Whp9eL8q78Q.png",
     "name" : "Tuya TS0201",
     "protocol" : "zigbee",
+    "url" : "tuya-ts0201",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/TS0201.html"
     ]

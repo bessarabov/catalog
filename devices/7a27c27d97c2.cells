@@ -4,7 +4,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/jhagQmrXm1Z6cmAvDCWjCGx7gtI.png",
     "name" : "Eztofa wireless switch 1",
     "protocol" : "zigbee",
-    "type" : "wireless_switch"
+    "type" : "wireless_switch",
+    "url" : "eztofa-wireless-switch-1"
 }
 ```
 ---

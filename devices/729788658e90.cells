@@ -7,7 +7,8 @@
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/WQ312x7PGvsJysYwqWvNO11ahFY.png",
     "name" : "Tuya TH sensor",
-    "protocol" : "zigbee"
+    "protocol" : "zigbee",
+    "url" : "tuya-th-sensor"
 }
 ```
 ---

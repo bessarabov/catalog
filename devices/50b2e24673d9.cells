@@ -7,7 +7,8 @@
     "name" : "BlitzWolf BW-SS7 2 gang",
     "need_neutral" : true,
     "protocol" : "zigbee",
-    "type" : "relay"
+    "type" : "relay",
+    "url" : "blitzwolf-bw-ss7-2-gang"
 }
 ```
 ---

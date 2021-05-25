@@ -10,6 +10,7 @@
     "name" : "Sonoff SNZB-02",
     "protocol" : "zigbee",
     "type" : "climate_sensor",
+    "url" : "sonoff-snzb-02",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/SNZB-02.html"
     ]

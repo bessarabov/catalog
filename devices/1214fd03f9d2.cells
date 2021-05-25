@@ -11,7 +11,8 @@
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/reGTb7TrZuuUllr5LHpOPIVvvtA.png",
     "name" : "Xiaomi ClearGrass Air detector",
-    "protocol" : "wifi"
+    "protocol" : "wifi",
+    "url" : "xiaomi-cleargrass-air-detector"
 }
 ```
 ---

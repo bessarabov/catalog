@@ -8,7 +8,8 @@
     "ecosystem" : "Яндекс",
     "image" : "https://upload.bessarabov.ru/bessarabov/dPgimRUO0a067xBG5ODXy1QOhv8.png",
     "name" : "Яндекс.Станция Мини",
-    "type" : "smart_speaker"
+    "type" : "smart_speaker",
+    "url" : "yandex-station-mini"
 }
 ```
 ---

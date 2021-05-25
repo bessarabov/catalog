@@ -12,6 +12,7 @@
     "name" : "Life Control MCLH-08",
     "protocol" : "zigbee",
     "type" : "climate_sensor",
+    "url" : "life-control-mclh-08",
     "zigbee2mqtt" : "https://www.zigbee2mqtt.io/devices/MCLH-08.html"
 }
 ```

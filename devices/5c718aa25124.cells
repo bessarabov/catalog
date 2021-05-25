@@ -5,7 +5,8 @@
     "name" : "Sonoff SV",
     "need_neutral" : true,
     "protocol" : "wifi",
-    "type" : "relay"
+    "type" : "relay",
+    "url" : "sonoff-sv"
 }
 ```
 ---

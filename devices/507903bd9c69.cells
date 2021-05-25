@@ -4,7 +4,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/NSh3l4gw-pKsFIy0Jm6Z0jJYZnE.png",
     "name" : "Zemismart Tuya Zigbee Wireless Switch 4",
     "protocol" : "zigbee",
-    "type" : "wireless_switch"
+    "type" : "wireless_switch",
+    "url" : "zemismart-tuya-zigbee-wireless-switch-4"
 }
 ```
 ---

@@ -5,7 +5,8 @@
     "name" : "BlitzWolf BW-SHP1",
     "protocol" : "wifi",
     "socket_type" : "US",
-    "type" : "external_socket"
+    "type" : "external_socket",
+    "url" : "blitzwolf-bw-shp1"
 }
 ```
 ---

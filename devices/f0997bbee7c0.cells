@@ -5,7 +5,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/3juSLe_HkXEneI3oioMMptdq6Kk.png",
     "name" : "Elari Smart Button",
     "protocol" : "zigbee",
-    "type" : "button"
+    "type" : "button",
+    "url" : "elari-smart-button"
 }
 ```
 ---

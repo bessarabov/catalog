@@ -4,7 +4,8 @@
     "max_load" : "16A",
     "name" : "Mi Smart Plug (WiFi)",
     "protocol" : "wifi",
-    "type" : "external_socket"
+    "type" : "external_socket",
+    "url" : "mi-smart-plug-wifi"
 }
 ```
 ---

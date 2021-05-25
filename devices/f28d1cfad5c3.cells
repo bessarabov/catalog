@@ -9,7 +9,8 @@
     "ecosystem" : "Яндекс",
     "image" : "https://upload.bessarabov.ru/bessarabov/mBMtwe6-8gxabXYxp023YTT9Hgs.png",
     "name" : "Яндекс.Станция",
-    "type" : "smart_speaker"
+    "type" : "smart_speaker",
+    "url" : "yandex-station"
 }
 ```
 ---

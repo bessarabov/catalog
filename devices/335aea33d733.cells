@@ -7,7 +7,8 @@
     "power_monitor" : true,
     "protocol" : "wifi",
     "socket_type" : "GB",
-    "type" : "external_socket"
+    "type" : "external_socket",
+    "url" : "blitzwolf-bw-shp11"
 }
 ```
 ---

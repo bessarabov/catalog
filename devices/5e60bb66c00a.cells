@@ -10,6 +10,7 @@
     "name" : "Konke Smart Temperature Humidity Sensor",
     "protocol" : "zigbee",
     "type" : "climate_sensor",
+    "url" : "konke-smart-temperature-humidity-sensor",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/2AJZ4KPFT.html"
     ]

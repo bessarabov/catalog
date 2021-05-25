@@ -5,7 +5,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/mCyNEgCA3K6_3fgZ3vnzfqMkji8.png",
     "name" : "Life Control MCLH-09",
     "protocol" : "bluetooth",
-    "type" : "flower-sensor"
+    "type" : "flower-sensor",
+    "url" : "life-control-mclh-09"
 }
 ```
 ---

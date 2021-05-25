@@ -3,7 +3,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/7dQFp3OPpuJElT0CS1SrC7pt96g.png",
     "name" : "MOES Smart Bluetooth Fingerbot",
     "protocol" : "bluetooth",
-    "type" : "button-presser"
+    "type" : "button-presser",
+    "url" : "moes-smart-bluetooth-fingerbot"
 }
 ```
 ---

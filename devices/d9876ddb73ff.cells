@@ -7,7 +7,8 @@
     "name" : "Moes 3ch",
     "need_neutral" : true,
     "protocol" : "zigbee",
-    "type" : "relay"
+    "type" : "relay",
+    "url" : "moes-3ch"
 }
 ```
 ---

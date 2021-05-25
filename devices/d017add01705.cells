@@ -6,7 +6,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/kVw-eBcERWdFmOW2SlEh_6xTrHQ.png",
     "name" : "WiFi Smart PIR Motion Sensor",
     "protocol" : "wifi",
-    "type" : "motion_detector"
+    "type" : "motion_detector",
+    "url" : "wifi-smart-pir-motion-sensor-usb"
 }
 ```
 ---

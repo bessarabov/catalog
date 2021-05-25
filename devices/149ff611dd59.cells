@@ -9,6 +9,7 @@
     "need_neutral" : true,
     "protocol" : "zigbee",
     "type" : "relay",
+    "url" : "sonoff-zbmini",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/ZBMINI.html"
     ]

@@ -5,7 +5,8 @@
     "max_load" : "10A",
     "name" : "Elari Smart Socket",
     "protocol" : "wifi",
-    "type" : "external_socket"
+    "type" : "external_socket",
+    "url" : "elari-smart-socket"
 }
 ```
 ---

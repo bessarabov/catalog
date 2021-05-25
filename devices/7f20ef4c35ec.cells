@@ -8,7 +8,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/W4aNTYnyHY0uz6bBJ0LGC0gsrz4.png",
     "name" : "Elari Smart Motion Sensor",
     "protocol" : "zigbee",
-    "type" : "motion_detector"
+    "type" : "motion_detector",
+    "url" : "elari-smart-motion-sensor"
 }
 ```
 ---

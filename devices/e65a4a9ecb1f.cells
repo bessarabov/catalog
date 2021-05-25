@@ -5,7 +5,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/60FXMEsMGAYKAU-ithdw-X0I1ps.png",
     "name" : "Яндекс YNDX-00010",
     "protocol" : "wifi",
-    "type" : "lightbulb"
+    "type" : "lightbulb",
+    "url" : "yandex-smart-lightbulb-yndx-00010"
 }
 ```
 ---

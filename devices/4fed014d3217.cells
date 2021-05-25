@@ -8,7 +8,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/NQkoNqvmMDLKTA2o-5YWMe_-UvA.png",
     "name" : "Shelly Smoke",
     "protocol" : "wifi",
-    "type" : "smoke_detector"
+    "type" : "smoke_detector",
+    "url" : "shelly-smoke"
 }
 ```
 ---

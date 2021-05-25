@@ -4,6 +4,7 @@
     "name" : "Mi button",
     "protocol" : "zigbee",
     "type" : "button",
+    "url" : "mi-button",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/WXKG01LM.html"
     ]

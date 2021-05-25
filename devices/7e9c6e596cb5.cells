@@ -7,7 +7,8 @@
     "ecosystem" : "mail.ru",
     "image" : "https://upload.bessarabov.ru/bessarabov/Hc1gHmnrDVa6s-1p3nducyLyeMQ.png",
     "name" : "Капсула",
-    "type" : "smart_speaker"
+    "type" : "smart_speaker",
+    "url" : "capsula"
 }
 ```
 ---

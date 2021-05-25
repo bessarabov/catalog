@@ -5,6 +5,7 @@
     "name" : "Aqara button",
     "protocol" : "zigbee",
     "type" : "button",
+    "url" : "aqara-button",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/WXKG11LM.html",
         "https://www.zigbee2mqtt.io/devices/WXKG12LM.html"

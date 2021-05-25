@@ -6,6 +6,7 @@
     "name" : "Life Control MCLH-04",
     "protocol" : "zigbee",
     "type" : "door_window_sensor",
+    "url" : "life-control-mclh-04",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/MCLH-04.html"
     ]

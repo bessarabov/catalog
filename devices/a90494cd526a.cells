@@ -7,7 +7,8 @@
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/UmXLbwkwGqBrda9UZAJkUSHOIkU.png",
     "name" : "PIR with TH",
-    "type" : "motion_detector"
+    "type" : "motion_detector",
+    "url" : "pir-with-th"
 }
 ```
 ---

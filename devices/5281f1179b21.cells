@@ -7,6 +7,7 @@
     "need_neutral" : true,
     "protocol" : "zigbee",
     "type" : "relay",
+    "url" : "loratap-zigbee",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/TS011F.html"
     ]

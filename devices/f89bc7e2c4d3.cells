@@ -3,7 +3,8 @@
     "ecosystem" : "Яндекс",
     "image" : "https://upload.bessarabov.ru/bessarabov/ZRGTfGpVafPn1z8wnwgvem3fQAw.png",
     "name" : "JBL Link Music",
-    "type" : "smart_speaker"
+    "type" : "smart_speaker",
+    "url" : "jbl-link-music"
 }
 ```
 ---

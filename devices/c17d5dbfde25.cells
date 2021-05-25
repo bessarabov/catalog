@@ -6,6 +6,7 @@
     "name" : "Sonoff SNZB-04",
     "protocol" : "zigbee",
     "type" : "door_window_sensor",
+    "url" : "sonoff-snzb-04",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/SNZB-04.html"
     ]

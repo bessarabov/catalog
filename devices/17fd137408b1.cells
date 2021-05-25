@@ -6,7 +6,8 @@
     "name" : "BlitzWolf BW-SHP10",
     "power_monitor" : true,
     "protocol" : "wifi",
-    "type" : "external_socket"
+    "type" : "external_socket",
+    "url" : "blitzwolf-bw-shp10"
 }
 ```
 ---

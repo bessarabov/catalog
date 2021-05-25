@@ -5,6 +5,7 @@
     "name" : "Heiman leak sensor",
     "protocol" : "zigbee",
     "type" : "leak_sensor",
+    "url" : "heiman-leak-sensor",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/HS1WL_HS3WL.html",
         "https://www.zigbee2mqtt.io/devices/HS1-WL-E.html"

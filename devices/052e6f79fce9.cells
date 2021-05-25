@@ -11,6 +11,7 @@
     "name" : "Aqara",
     "protocol" : "zigbee",
     "type" : "climate_sensor",
+    "url" : "aqara-temperature-humidity-sensor",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/WSDCGQ11LM.html",
         "https://www.zigbee2mqtt.io/devices/WSDCGQ12LM.html"

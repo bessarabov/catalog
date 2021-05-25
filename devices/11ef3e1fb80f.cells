@@ -3,7 +3,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/w_nVxKzP0NLKoHKtdHSnzPTtf3Q.png",
     "name" : "Smart SOS button",
     "protocol" : "zigbee",
-    "type" : "button"
+    "type" : "button",
+    "url" : "smart-sos-button"
 }
 ```
 ---

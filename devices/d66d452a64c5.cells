@@ -11,7 +11,8 @@
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/XQfDyv30RXTQW3oWs8NXAahKKLQ.png",
     "name" : "BME280",
-    "protocol" : "—"
+    "protocol" : "—",
+    "url" : "bme280"
 }
 ```
 ---

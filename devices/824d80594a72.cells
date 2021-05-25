@@ -4,6 +4,7 @@
     "name" : "LeTV",
     "protocol" : "zigbee",
     "type" : "remote",
+    "url" : "letv-remote",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/LeTV.8KEY.html"
     ]

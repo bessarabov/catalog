@@ -5,6 +5,7 @@
     "name" : "Ikea open/close",
     "protocol" : "zigbee",
     "type" : "remote",
+    "url" : "ikea-openclose",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/E1766.html"
     ]

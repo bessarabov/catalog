@@ -8,6 +8,7 @@
     "need_neutral" : true,
     "protocol" : "zigbee",
     "type" : "relay",
+    "url" : "tuya-2-ln",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/QS-Zigbee-S04-2C-LN.html"
     ]

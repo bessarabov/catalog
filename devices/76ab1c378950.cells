@@ -5,7 +5,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/uNO-BESmR4tSL85ayoyZhvt8qvE.png",
     "name" : "Life Control MCLH-06",
     "protocol" : "rf868",
-    "type" : "smoke_detector"
+    "type" : "smoke_detector",
+    "url" : "life-control-mclh-06"
 }
 ```
 ---

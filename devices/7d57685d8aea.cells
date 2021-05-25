@@ -5,7 +5,8 @@
     "name" : "LED socket",
     "power_monitor" : true,
     "protocol" : "wifi",
-    "type" : "external_socket"
+    "type" : "external_socket",
+    "url" : "led-socket"
 }
 ```
 ---

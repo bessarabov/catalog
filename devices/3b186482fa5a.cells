@@ -3,7 +3,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/Vp6LN6pz9FUEFEHHlyI4MBlK1Ng.png",
     "name" : "Yeelight button",
     "protocol" : "bluetooth",
-    "type" : "button"
+    "type" : "button",
+    "url" : "yeelight-button"
 }
 ```
 ---

@@ -4,6 +4,7 @@
     "name" : "SOS Button",
     "protocol" : "zigbee",
     "type" : "button",
+    "url" : "sos-button",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/TS0215A.html"
     ]

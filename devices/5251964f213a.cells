@@ -4,7 +4,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/x4LvkNsk84UjDz6-Ti0x2QYGISU.png",
     "name" : "BlitzWolf BW-IS5",
     "protocol" : "zigbee",
-    "type" : "leak_sensor"
+    "type" : "leak_sensor",
+    "url" : "blitzwolf-bw-is5"
 }
 ```
 ---

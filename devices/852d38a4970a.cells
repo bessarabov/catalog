@@ -9,6 +9,7 @@
     "name" : "Aqara human body movement and illuminance sensor",
     "protocol" : "zigbee",
     "type" : "motion_detector",
+    "url" : "aqara-human-body-movement-and-illuminance-sensor",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/RTCGQ11LM.html"
     ]

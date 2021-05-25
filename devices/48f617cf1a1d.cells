@@ -3,7 +3,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/nFMNEudZPLOo3wvbKcf9qoH0Cv0.png",
     "name" : "YouPin Flower Monitor",
     "protocol" : "bluetooth",
-    "type" : "flower-sensor"
+    "type" : "flower-sensor",
+    "url" : "youpin-flower-monitor"
 }
 ```
 ---

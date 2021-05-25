@@ -4,7 +4,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/aybFl1t0ysw-CqfQfNYpor9Tx14.png",
     "name" : "Shelly Bulb - RGBW",
     "protocol" : "wifi",
-    "type" : "lightbulb"
+    "type" : "lightbulb",
+    "url" : "shelly-bulb-rgbw"
 }
 ```
 ---

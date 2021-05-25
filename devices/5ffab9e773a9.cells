@@ -5,6 +5,7 @@
     "name" : "Opple 2",
     "protocol" : "zigbee",
     "type" : "wireless_switch",
+    "url" : "opple-2",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/WXCJKG12LM.html"
     ]

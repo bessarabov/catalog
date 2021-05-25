@@ -6,7 +6,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/f-wHcj_fh4Bp3XmiMS7ASz8gX8g.png",
     "name" : "Xiaomi Sensor 2 for door and window",
     "protocol" : "bluetooth",
-    "type" : "door_window_sensor"
+    "type" : "door_window_sensor",
+    "url" : "xiaomi-sensor-2-for-door-and-window"
 }
 ```
 ---

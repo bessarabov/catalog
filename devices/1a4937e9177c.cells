@@ -7,7 +7,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/vteG-j2MRUca2cnZ4mKlD_13VGg.png",
     "name" : "Shelly Motion",
     "protocol" : "wifi",
-    "type" : "motion_detector"
+    "type" : "motion_detector",
+    "url" : "shelly-motion"
 }
 ```
 ---

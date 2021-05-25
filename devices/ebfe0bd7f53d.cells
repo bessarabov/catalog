@@ -7,7 +7,8 @@
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/-1N-DW5EjBqFBDpZUjTTT9FMUcY.png",
     "name" : "Neo",
-    "protocol" : "zigbee"
+    "protocol" : "zigbee",
+    "url" : "neo-temperature-humidity-alarm"
 }
 ```
 ---

@@ -3,7 +3,8 @@
     "brand" : "Konke",
     "image" : "https://upload.bessarabov.ru/bessarabov/BOS_pBXG_qaEGT3OkMR3v8f0VUw.png",
     "name" : "Konke Smart Home Center",
-    "type" : "zigbee_gateway"
+    "type" : "zigbee_gateway",
+    "url" : "konke-smart-home-center"
 }
 ```
 ---

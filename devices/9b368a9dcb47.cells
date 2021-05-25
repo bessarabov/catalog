@@ -7,7 +7,8 @@
     "name" : "eWeLink 2",
     "need_neutral" : true,
     "protocol" : "wifi",
-    "type" : "relay"
+    "type" : "relay",
+    "url" : "ewelink-relay-2"
 }
 ```
 ---

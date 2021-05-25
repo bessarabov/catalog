@@ -9,7 +9,8 @@
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/RUvEVXFSSm3sHB3pDofKLvzXIFc.png",
     "name" : "DS18b20",
-    "protocol" : "—"
+    "protocol" : "—",
+    "url" : "ds18b20"
 }
 ```
 ---

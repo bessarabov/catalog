@@ -5,6 +5,7 @@
     "name" : "Ikea remote",
     "protocol" : "zigbee",
     "type" : "remote",
+    "url" : "ikea-remote",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/E1524_E1810.html"
     ]

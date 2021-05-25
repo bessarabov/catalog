@@ -5,7 +5,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/g9Cpj7KRRkoKScQHXNhWmofLqvg.png",
     "name" : "Elari Smart Door Sensor",
     "protocol" : "zigbee",
-    "type" : "door_window_sensor"
+    "type" : "door_window_sensor",
+    "url" : "elari-smart-door-sensor"
 }
 ```
 ---

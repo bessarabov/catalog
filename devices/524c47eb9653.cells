@@ -6,6 +6,7 @@
     "name" : "Konke Smart Wireless Button",
     "protocol" : "zigbee",
     "type" : "button",
+    "url" : "konke-smart-wireless-button",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/2AJZ4KPKEY.html"
     ]

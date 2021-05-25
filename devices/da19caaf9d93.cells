@@ -5,6 +5,7 @@
     "name" : "Aqara wireless wall switch 1 key",
     "protocol" : "zigbee",
     "type" : "wireless_switch",
+    "url" : "aqara-wireless-wall-switch-1-key",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/WXKG03LM.html"
     ]

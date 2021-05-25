@@ -9,7 +9,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/VsIKFCPw8BMKIoaN1Oldg8sEmGI.png",
     "name" : "BlitzWolf BW-IS4",
     "protocol" : "zigbee",
-    "type" : "climate_sensor"
+    "type" : "climate_sensor",
+    "url" : "blitzwolf-bw-is4"
 }
 ```
 ---

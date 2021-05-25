@@ -7,7 +7,8 @@
     "name" : "Sonoff 4CH Pro",
     "need_neutral" : true,
     "protocol" : "wifi",
-    "type" : "relay"
+    "type" : "relay",
+    "url" : "sonoff-4ch-pro"
 }
 ```
 ---

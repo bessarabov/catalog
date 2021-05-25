@@ -5,6 +5,7 @@
     "name" : "Konke leak sensor",
     "protocol" : "zigbee",
     "type" : "leak_sensor",
+    "url" : "konke-leak-sensor",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/LH07321.html"
     ]

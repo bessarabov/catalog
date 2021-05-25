@@ -5,6 +5,7 @@
     "name" : "Leak sensor",
     "protocol" : "zigbee",
     "type" : "leak_sensor",
+    "url" : "ts0207-leak-sensor",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/TS0207.html"
     ]

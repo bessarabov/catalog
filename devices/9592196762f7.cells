@@ -10,6 +10,7 @@
     "power_monitor" : true,
     "protocol" : "zigbee",
     "type" : "relay",
+    "url" : "aqara-single-switch-module-t1-with-neutral",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/SSM-U01.html"
     ]

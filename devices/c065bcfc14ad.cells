@@ -5,7 +5,8 @@
     "max_load" : "16A",
     "name" : "BlitzWolf BW-SHP14",
     "protocol" : "wifi",
-    "type" : "external_socket"
+    "type" : "external_socket",
+    "url" : "blitzwolf-bw-shp14"
 }
 ```
 ---

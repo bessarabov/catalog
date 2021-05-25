@@ -5,6 +5,7 @@
     "name" : "Ikea on/off",
     "protocol" : "zigbee",
     "type" : "remote",
+    "url" : "ikea-onoff",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/E1743.html"
     ]

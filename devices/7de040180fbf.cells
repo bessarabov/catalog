@@ -5,6 +5,7 @@
     "name" : "BlitzWolf BW-IS2",
     "protocol" : "zigbee",
     "type" : "door_window_sensor",
+    "url" : "blitzwolf-bw-is2",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/SNTZ007.html"
     ]

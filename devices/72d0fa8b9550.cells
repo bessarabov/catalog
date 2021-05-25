@@ -5,7 +5,8 @@
     "max_load" : "15A",
     "name" : "BlitzWolf BW-SHP9",
     "protocol" : "wifi",
-    "type" : "power_strip"
+    "type" : "power_strip",
+    "url" : "blitzwolf-bw-shp9"
 }
 ```
 ---

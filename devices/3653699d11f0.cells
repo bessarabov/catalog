@@ -9,7 +9,8 @@
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/JNsl1b70mUnl0PqwCULtlk2UZUE.png",
     "name" : "Qing Ping Air Monitor Lite",
-    "protocol" : "wifi, bluetooth"
+    "protocol" : "wifi, bluetooth",
+    "url" : "qing-ping-air-monitor-lite"
 }
 ```
 ---

@@ -6,7 +6,8 @@
     "lamptest" : "https://lamptest.ru/review/03419-iandeks-yndx-0005/",
     "name" : "Яндекс YNDX-0005",
     "protocol" : "wifi",
-    "type" : "lightbulb"
+    "type" : "lightbulb",
+    "url" : "yandex-smart-lightbulb-yndx-0005"
 }
 ```
 ---

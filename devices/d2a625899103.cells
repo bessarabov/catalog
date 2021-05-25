@@ -13,6 +13,7 @@
     "power_monitor" : "yes",
     "protocol" : "zigbee",
     "type" : "relay",
+    "url" : "modkam-relay",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/DIYRuZ_rspm.html"
     ]

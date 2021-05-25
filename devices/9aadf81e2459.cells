@@ -5,7 +5,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/qxNzKOQ7XgvDjwOGva4JY3zH5Zg.png",
     "name" : "Shelly Door/Window 2",
     "protocol" : "wifi",
-    "type" : "door_window_sensor"
+    "type" : "door_window_sensor",
+    "url" : "shelly-doorwindow-2"
 }
 ```
 ---

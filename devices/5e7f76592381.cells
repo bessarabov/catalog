@@ -4,7 +4,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/614b2i76mCHQey2IozcDHD5TeBk.png",
     "name" : "Elari Smart Switch",
     "protocol" : "zigbee",
-    "type" : "smart_switch"
+    "type" : "smart_switch",
+    "url" : "elari-smart-switch"
 }
 ```
 ---

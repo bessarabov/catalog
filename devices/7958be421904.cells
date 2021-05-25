@@ -6,6 +6,7 @@
     "power_monitor" : true,
     "protocol" : "zigbee",
     "type" : "external_socket",
+    "url" : "mi-smart-plug-zigbee",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/ZNCZ04LM.html"
     ]

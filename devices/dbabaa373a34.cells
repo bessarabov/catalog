@@ -11,7 +11,8 @@
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/ryIQF7dga0FUZzFtMw4QR3eo7HI.png",
     "name" : "Настенный комбинированный датчик WB-MSW v.3",
-    "type" : "climate_sensor"
+    "type" : "climate_sensor",
+    "url" : "wb-msw-v3"
 }
 ```
 ---

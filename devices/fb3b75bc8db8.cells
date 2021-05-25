@@ -7,6 +7,7 @@
     "name" : "Xiaomi mijia human body sensor",
     "protocol" : "zigbee",
     "type" : "motion_detector",
+    "url" : "xiaomi-mijia-human-body-sensor",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/RTCGQ01LM.html"
     ]

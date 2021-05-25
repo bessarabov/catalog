@@ -9,7 +9,8 @@
     "name" : "Shelly 1",
     "need_neutral" : true,
     "protocol" : "wifi",
-    "type" : "relay"
+    "type" : "relay",
+    "url" : "shelly-1"
 }
 ```
 ---

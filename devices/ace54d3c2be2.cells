@@ -11,7 +11,8 @@
     "ecosystem" : "Яндекс",
     "image" : "https://upload.bessarabov.ru/bessarabov/rnYMHgXVANFhJK-66rpIiyIim34.png",
     "name" : "JBL Link Portable",
-    "type" : "smart_speaker"
+    "type" : "smart_speaker",
+    "url" : "jbl-link-portable"
 }
 ```
 ---

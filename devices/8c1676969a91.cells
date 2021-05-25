@@ -10,7 +10,8 @@
     "need_neutral" : true,
     "power_monitor" : true,
     "protocol" : "wifi",
-    "type" : "relay"
+    "type" : "relay",
+    "url" : "shelly-1pm"
 }
 ```
 ---

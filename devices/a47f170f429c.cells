@@ -9,6 +9,7 @@
     "need_neutral" : true,
     "protocol" : "zigbee",
     "type" : "relay",
+    "url" : "moes-zigbee-switch-module",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/TS0121_switch.html"
     ]

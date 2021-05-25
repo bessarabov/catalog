@@ -7,7 +7,8 @@
     "name" : "Умная розетка Sber",
     "power_monitor" : "yes",
     "protocol" : "wifi",
-    "type" : "external_socket"
+    "type" : "external_socket",
+    "url" : "sber-smart-socket"
 }
 ```
 ---

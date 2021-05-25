@@ -8,7 +8,8 @@
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/ds_opKmkkm_YeqW5y_FJlqsGQX4.png",
     "name" : "Qing Ping CGD1",
-    "protocol" : "bluetooth"
+    "protocol" : "bluetooth",
+    "url" : "qing-ping-cgd1"
 }
 ```
 ---

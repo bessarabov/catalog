@@ -5,6 +5,7 @@
     "name" : "Mijia Window Door Sensor",
     "protocol" : "zigbee",
     "type" : "door_window_sensor",
+    "url" : "mijia-window-door-sensor",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/MCCGQ01LM.html"
     ]

@@ -9,7 +9,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/f-iLI0VzIiEIoXeCBXFNV_wgDKc.png",
     "name" : "Elari Smart T&H Sensor",
     "protocol" : "zigbee",
-    "type" : "climate_sensor"
+    "type" : "climate_sensor",
+    "url" : "elari-smart-t-and-h-sensor"
 }
 ```
 ---

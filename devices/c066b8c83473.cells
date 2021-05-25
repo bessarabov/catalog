@@ -8,7 +8,8 @@
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/eVOkgSgeZk8ZTtIt1twvPdxGejY.png",
     "name" : "Xiaomi Mijia Hygrometer",
-    "protocol" : "bluetooth"
+    "protocol" : "bluetooth",
+    "url" : "xiaomi-mijia-hygrometer"
 }
 ```
 ---

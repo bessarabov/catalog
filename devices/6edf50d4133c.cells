@@ -12,6 +12,7 @@
     "need_neutral" : true,
     "protocol" : "zigbee",
     "type" : "relay",
+    "url" : "modkam-relay-8ch",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/DIYRuZ_R8_8.html"
     ]

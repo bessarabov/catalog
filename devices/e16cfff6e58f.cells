@@ -6,7 +6,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/3nn-_r8hUe5_O1GswCCY-pTdMsg.png",
     "name" : "Sber E27",
     "protocol" : "wifi",
-    "type" : "lightbulb"
+    "type" : "lightbulb",
+    "url" : "sber-e27"
 }
 ```
 ---

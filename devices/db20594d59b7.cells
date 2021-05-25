@@ -9,6 +9,7 @@
     "name" : "4 buttons switch",
     "protocol" : "zigbee",
     "type" : "wireless_switch",
+    "url" : "4-buttons-switch",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/TS0044.html"
     ]

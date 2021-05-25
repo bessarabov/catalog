@@ -4,7 +4,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/IzjJKfbtuQ59Bj1_BpJCB41ye60.png",
     "name" : "Qingping Door/Window contact sensor",
     "protocol" : "bluetooth",
-    "type" : "door_window_sensor"
+    "type" : "door_window_sensor",
+    "url" : "qingping-doorwindow-contact-sensor"
 }
 ```
 ---

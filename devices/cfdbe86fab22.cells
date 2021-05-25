@@ -6,7 +6,8 @@
     "name" : "eWelink releay",
     "need_neutral" : false,
     "protocol" : "wifi, rf433",
-    "type" : "relay"
+    "type" : "relay",
+    "url" : "ewelink-releay"
 }
 ```
 ---

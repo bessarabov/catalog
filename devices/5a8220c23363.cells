@@ -6,7 +6,8 @@
     "name" : "TP-Link HS110",
     "power_monitor" : true,
     "protocol" : "wifi",
-    "type" : "external_socket"
+    "type" : "external_socket",
+    "url" : "tp-link-hs110"
 }
 ```
 ---

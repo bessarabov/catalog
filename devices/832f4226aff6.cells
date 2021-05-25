@@ -6,6 +6,7 @@
     "name" : "Aqara water leak sensor",
     "protocol" : "zigbee",
     "type" : "leak_sensor",
+    "url" : "aqara-water-leak-sensor",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/SJCGQ11LM.html",
         "https://www.zigbee2mqtt.io/devices/SJCGQ12LM.html"

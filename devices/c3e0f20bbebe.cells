@@ -8,7 +8,8 @@
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/FGVUd05JzlIgR2N4DGuJTJ9hx6Q.png",
     "name" : "Mi Home Bluetooth Hygrothermograph",
-    "protocol" : "bluetooth"
+    "protocol" : "bluetooth",
+    "url" : "mi-home-bluetooth-hygrothermograph"
 }
 ```
 ---

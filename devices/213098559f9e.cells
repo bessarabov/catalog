@@ -8,7 +8,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/1td2hcXwTeDSU2USTCNo_FNSrwU.png",
     "name" : "Benexmart wireless sensor swtich 1 gang",
     "protocol" : "zigbee",
-    "type" : "wireless_switch"
+    "type" : "wireless_switch",
+    "url" : "benexmart-wireless-sensor-swtich-1-gang"
 }
 ```
 ---

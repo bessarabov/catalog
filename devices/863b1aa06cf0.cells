@@ -9,7 +9,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/qSuzI4kfXEGmH42cyChrsASaG0g.png",
     "name" : "Shelly H&T",
     "protocol" : "wifi",
-    "type" : "climate_sensor"
+    "type" : "climate_sensor",
+    "url" : "shelly-h-and-t"
 }
 ```
 ---

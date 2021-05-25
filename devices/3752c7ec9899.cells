@@ -8,6 +8,7 @@
     "name" : "Konke Smart Motion sensor",
     "protocol" : "zigbee",
     "type" : "motion_detector",
+    "url" : "konke-smart-motion-sensor",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/2AJZ4KPBS.html"
     ]

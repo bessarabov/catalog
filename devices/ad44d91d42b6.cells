@@ -4,7 +4,8 @@
     "image" : "https://upload.bessarabov.ru/bessarabov/db5rAFYjmbdAeWk6LebJKWvP5Cs.png",
     "name" : "Elari SmartLED Color E27",
     "protocol" : "wifi",
-    "type" : "lightbulb"
+    "type" : "lightbulb",
+    "url" : "elari-smartled-color-e27"
 }
 ```
 ---

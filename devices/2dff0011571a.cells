@@ -7,6 +7,7 @@
     "power_monitor" : true,
     "protocol" : "zigbee",
     "type" : "external_socket",
+    "url" : "life-control-mclh-03",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/MCLH-03.html"
     ]

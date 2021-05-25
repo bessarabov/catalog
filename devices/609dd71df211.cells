@@ -6,7 +6,8 @@
         "display"
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/-KwX0egKijE6qwfoOOhGZFcbXzk.png",
-    "name" : "Tuya"
+    "name" : "Tuya",
+    "url" : "tuya-temperature-humidity-sensor-with-display"
 }
 ```
 ---

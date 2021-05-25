@@ -4,6 +4,7 @@
     "name" : "Smart remote",
     "protocol" : "zigbee",
     "type" : "remote",
+    "url" : "smart-remote",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/HS1RC-N.html"
     ]
