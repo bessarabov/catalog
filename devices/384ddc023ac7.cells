@@ -6,7 +6,7 @@
     "name" : "Ikea Trådfri LED 1000lm E27",
     "protocol" : "zigbee",
     "type" : "lightbulb",
-    "url" : "ikea-trdfri-led-1000lm-e27",
+    "url" : "ikea-tradfri-led-1000lm-e27",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/LED1623G12.html"
     ]
