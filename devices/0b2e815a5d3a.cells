@@ -1,12 +1,12 @@
 ```meta
 {
-    "ecosystem" : "Apple",
-    "image" : "https://upload.bessarabov.ru/bessarabov/PMq3rI2N-pQaU29DRLBhU97PvFg.png",
-    "name" : "Apple HomePod",
     "colors" : [
         "#7e8285",
         "#ffffff"
     ],
+    "ecosystem" : "Apple",
+    "image" : "https://upload.bessarabov.ru/bessarabov/PMq3rI2N-pQaU29DRLBhU97PvFg.png",
+    "name" : "Apple HomePod",
     "type" : "smart_speaker"
 }
 ```

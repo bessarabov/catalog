@@ -1,6 +1,5 @@
 ```meta
 {
-    "url" : "sonoff-basic",
     "brand" : "Sonoff",
     "channels" : 1,
     "image" : "https://upload.bessarabov.ru/bessarabov/FonDeke_GcdZLdw_hTp7n52Sq_U.png",
@@ -9,7 +8,8 @@
     "need_neutral" : true,
     "power_monitor" : false,
     "protocol" : "wifi",
-    "type" : "relay"
+    "type" : "relay",
+    "url" : "sonoff-basic"
 }
 ```
 ---

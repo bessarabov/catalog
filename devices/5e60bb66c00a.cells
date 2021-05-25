@@ -1,7 +1,7 @@
 ```meta
 {
-    "brand" : "Konke",
     "battery" : "CR2450",
+    "brand" : "Konke",
     "features" : [
         "temperature",
         "humidity"

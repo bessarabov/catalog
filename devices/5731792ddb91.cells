@@ -1,13 +1,13 @@
 ```meta
 {
     "battery" : "2 x CR2032",
-    "image" : "https://upload.bessarabov.ru/bessarabov/m9fzVVA4fCtLCjYxHU9UqtqeNmU.png",
-    "name" : "Benexmart wireless sensor swtich 2 gang",
-    "protocol" : "zigbee",
     "colors" : [
         "white",
         "black"
     ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/m9fzVVA4fCtLCjYxHU9UqtqeNmU.png",
+    "name" : "Benexmart wireless sensor swtich 2 gang",
+    "protocol" : "zigbee",
     "type" : "wireless_switch"
 }
 ```

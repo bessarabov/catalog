@@ -1,6 +1,5 @@
 ```meta
 {
-    "url" : "sonoff-mini",
     "brand" : "Sonoff",
     "channels" : 1,
     "external_switch" : true,
@@ -9,7 +8,8 @@
     "name" : "Sonoff Mini",
     "need_neutral" : true,
     "protocol" : "wifi",
-    "type" : "relay"
+    "type" : "relay",
+    "url" : "sonoff-mini"
 }
 ```
 ---

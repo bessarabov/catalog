@@ -1,6 +1,5 @@
 ```meta
 {
-    "url" : "sonoff-basic-zigbee",
     "brand" : "Sonoff",
     "channels" : 1,
     "image" : "https://upload.bessarabov.ru/bessarabov/z4p97prvSni71YYsnH0QDKeK7bs.png",
@@ -9,6 +8,7 @@
     "need_neutral" : true,
     "protocol" : "zigbee",
     "type" : "relay",
+    "url" : "sonoff-basic-zigbee",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/BASICZBR3.html"
     ]

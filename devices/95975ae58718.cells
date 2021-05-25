@@ -1,6 +1,5 @@
 ```meta
 {
-    "url" : "haozee-multi-sensor",
     "battery" : "2 x CR123A",
     "features" : [
         "temperature",
@@ -9,8 +8,9 @@
         "illumination"
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/1ohs-OJXusBooNIHI9MhixGuGSE.png",
+    "name" : "Haozee Multi Sensor",
     "protocol" : "zigbee",
-    "name" : "Haozee Multi Sensor"
+    "url" : "haozee-multi-sensor"
 }
 ```
 ---

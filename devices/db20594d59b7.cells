@@ -1,14 +1,14 @@
 ```meta
 {
     "battery" : "CR2430",
-    "image" : "https://upload.bessarabov.ru/bessarabov/soogspP4szBZhNlBOUqEu1WZsW8.png",
-    "name" : "4 buttons switch",
-    "protocol" : "zigbee",
-    "type" : "wireless_switch",
     "colors" : [
         "white",
         "black"
     ],
+    "image" : "https://upload.bessarabov.ru/bessarabov/soogspP4szBZhNlBOUqEu1WZsW8.png",
+    "name" : "4 buttons switch",
+    "protocol" : "zigbee",
+    "type" : "wireless_switch",
     "zigbee2mqtt" : [
         "https://www.zigbee2mqtt.io/devices/TS0044.html"
     ]

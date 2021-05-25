@@ -1,10 +1,10 @@
 ```meta
 {
-    "url" : "shelly-i3",
     "brand" : "Shelly",
     "image" : "https://upload.bessarabov.ru/bessarabov/ZIL6T1-RzRSAGFoZZya-6irrsmA.png",
     "name" : "Shelly i3",
-    "protocol" : "wifi"
+    "protocol" : "wifi",
+    "url" : "shelly-i3"
 }
 ```
 ---

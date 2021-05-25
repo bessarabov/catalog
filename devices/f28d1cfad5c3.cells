@@ -1,14 +1,14 @@
 ```meta
 {
     "brand" : "Яндекс",
-    "ecosystem" : "Яндекс",
-    "image" : "https://upload.bessarabov.ru/bessarabov/mBMtwe6-8gxabXYxp023YTT9Hgs.png",
-    "name" : "Яндекс.Станция",
     "colors" : [
         "#eceae8",
         "#9940aa",
         "#7e858b"
     ],
+    "ecosystem" : "Яндекс",
+    "image" : "https://upload.bessarabov.ru/bessarabov/mBMtwe6-8gxabXYxp023YTT9Hgs.png",
+    "name" : "Яндекс.Станция",
     "type" : "smart_speaker"
 }
 ```

@@ -1,13 +1,13 @@
 ```meta
 {
     "brand" : "Яндекс",
-    "ecosystem" : "Яндекс",
-    "image" : "https://upload.bessarabov.ru/bessarabov/dPgimRUO0a067xBG5ODXy1QOhv8.png",
-    "name" : "Яндекс.Станция Мини",
     "colors" : [
         "#b3adae",
         "#26252b"
     ],
+    "ecosystem" : "Яндекс",
+    "image" : "https://upload.bessarabov.ru/bessarabov/dPgimRUO0a067xBG5ODXy1QOhv8.png",
+    "name" : "Яндекс.Станция Мини",
     "type" : "smart_speaker"
 }
 ```
