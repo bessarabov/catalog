@@ -1,7 +1,7 @@
 ```meta
 {
     "battery" : "CR2032",
-    "brand" : "Aqara",
+    "brand" : "Aqara climate sensor",
     "features" : [
         "temperature",
         "humidity",
