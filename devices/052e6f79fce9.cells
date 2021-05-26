@@ -1,14 +1,14 @@
 ```meta
 {
     "battery" : "CR2032",
-    "brand" : "Aqara climate sensor",
+    "brand" : "Aqara",
     "features" : [
         "temperature",
         "humidity",
         "pressure"
     ],
     "image" : "https://upload.bessarabov.ru/bessarabov/9Fb7zSvhbW8BTgPyL0BMEFd-Av4.png",
-    "name" : "Aqara",
+    "name" : "Aqara climate sensor",
     "protocol" : "zigbee",
     "type" : "climate_sensor",
     "url" : "aqara-temperature-humidity-sensor",
