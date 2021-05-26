@@ -1,5 +1,6 @@
 ```meta
 {
+    "battery" : "CR2450",
     "image" : "https://upload.bessarabov.ru/bessarabov/Dmw3XlspZDFRj4aITeAPYMFZsgM.png",
     "name" : "Mijia Smart Light Sensor",
     "protocol" : "zigbee",

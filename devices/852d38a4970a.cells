@@ -1,5 +1,6 @@
 ```meta
 {
+    "battery" : "CR2450",
     "brand" : "Aqara",
     "features" : [
         "illumination",
