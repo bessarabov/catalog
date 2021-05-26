@@ -1,0 +1,16 @@
+```meta
+{
+    "image" : "https://upload.bessarabov.ru/bessarabov/xOwCoZLgANtpj3tXDC9szrwYQjU.png",
+    "name" : "Lonsonho 2 gang switch LN",
+    "need_neutral" : "yes",
+    "protocol" : "zigbee",
+    "type" : "smart_switch",
+    "url" : "lonsonho-smart-switch-2-gang-ln",
+    "zigbee2mqtt" : [
+        "https://www.zigbee2mqtt.io/devices/X712A.html"
+    ]
+}
+```
+---
+```markdown
+```
