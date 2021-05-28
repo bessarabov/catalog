@@ -1,0 +1,13 @@
+```meta
+{
+    "brand" : "Smartlight",
+    "image" : "https://smartlight.me/image/catalog/products/devices/zigbee/usb_dongle_v4_cc2652/bessarabov.jpg",
+    "name" : "Zigbee CC2652 Coordinator",
+    "protocol" : "zigbee",
+    "type" : "zigbee_gateway",
+    "url" : "zigbee-cc2652p-coordinator",
+}
+```
+---
+```markdown
+```
