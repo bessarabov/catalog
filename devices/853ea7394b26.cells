@@ -2,6 +2,7 @@
 {
     "image" : "https://upload.bessarabov.ru/bessarabov/sjjJaxYwDepM14pyq95ewkyp_xY.png",
     "name" : "Egony Ebyte Stick V4",
+    "chip" : "CC2652P",
     "protocol" : "zigbee",
     "type" : "zigbee_stick",
     "url" : "egony-ebyte-stick-v4"

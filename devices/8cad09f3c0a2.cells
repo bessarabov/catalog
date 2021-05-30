@@ -1,0 +1,13 @@
+```meta
+{
+    "image" : "https://upload.bessarabov.ru/bessarabov/okTyuM6gSm_MGwKcjv6Nc7jUilM.png",
+    "name" : "Smartlight Stick V4",
+    "chip" : "CC2652P",
+    "protocol" : "zigbee",
+    "type" : "zigbee_stick",
+    "url" : "smartlight-zigbee-stick-cc2652p"
+}
+```
+---
+```markdown
+```

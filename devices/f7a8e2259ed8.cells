@@ -1,0 +1,14 @@
+```meta
+{
+    "image" : "https://upload.bessarabov.ru/bessarabov/_2rbaufuhfiztEJ2-aJ8MVLIQUk.png",
+    "brand" : "Sonoff",
+    "chip" : "CC2531",
+    "protocol" : "zigbee",
+    "name" : "Sonoff CC2531",
+    "type" : "zigbee_stick",
+    "url" : "sonoff-cc2531-zigbee-stick"
+}
+```
+---
+```markdown
+```

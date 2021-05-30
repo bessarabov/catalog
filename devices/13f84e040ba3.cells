@@ -1,0 +1,16 @@
+```meta
+{
+    "image" : "https://upload.bessarabov.ru/bessarabov/2_oxnUeYBLuJO1M1aBlTrpjxjQg.png",
+    "name" : "Egony RF-STAR Stick V4",
+    "chip" : "CC2652P",
+    "protocol" : "zigbee",
+    "type" : "zigbee_stick",
+    "url" : "egony-rf-star-stick-v4"
+}
+```
+---
+```markdown
+Зигби стик на базе модулей RF-STAR (чипы cc2652p/cc1352p).
+
+Разработка [Egony](http://t.me/Egony). Описание проекта — [https://github.com/egony/cc2652p_cc1352p_RF-STAR/wiki](https://github.com/egony/cc2652p_cc1352p_RF-STAR/wiki)
+```

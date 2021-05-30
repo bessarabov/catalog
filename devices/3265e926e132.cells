@@ -1,0 +1,17 @@
+```meta
+{
+    "image" : "https://upload.bessarabov.ru/bessarabov/Eh-ZzLayCHC8vRVFdf-Y-oaSLyg.png",
+    "name" : "ZigStar Stick v4",
+    "chip" : "CC2652P",
+    "type" : "zigbee_stick",
+    "url" : "zigstar-stick-v4"
+}
+```
+---
+```markdown
+
+Разработка [mercenaruss](https://t.me/mercenaruss). Описание проекта:
+
+ * [https://github.com/mercenaruss/zigbee-stick-v4](https://github.com/mercenaruss/zigbee-stick-v4)
+ * [https://zig-star.com/projects/zigbee-stick-v4/](https://zig-star.com/projects/zigbee-stick-v4/)
+```
