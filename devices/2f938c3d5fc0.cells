@@ -1,0 +1,13 @@
+```meta
+{
+    "chip" : "EFR32MG21",
+    "image" : "https://upload.bessarabov.ru/bessarabov/ADbPdjRiZhOm2pxQ6TtLPmohA5M.png",
+    "name" : "Sprut.stick ZigBee 2 Pro",
+    "protocol" : "zigbee",
+    "type" : "zigbee_stick",
+    "url" : "sprut-stick-zigbee-2-pro"
+}
+```
+---
+```markdown
+```
